@@ -4,6 +4,8 @@ function App() {
   return (
     <>
       <h1>Reglamento Estudiantil</h1>
+      
+
     </>
   );
 }
