@@ -1,4 +1,4 @@
-import "./styles/header.css"
+import "./Header.css"
 
 const Header = () => {
   return (

@@ -1,4 +1,4 @@
-import './styles/cite.css'
+import './Cite.css'
 
 
 const Cite = () => {
