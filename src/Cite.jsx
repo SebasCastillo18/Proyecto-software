@@ -1,3 +1,6 @@
+import './styles/cite.css'
+
+
 const Cite = () => {
   return (
     <main>
