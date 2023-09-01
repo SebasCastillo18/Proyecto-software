@@ -1,6 +1,14 @@
+@font-face {
+    font-family: 'Loto';
+    src: url('../fonts/Lato-Black.ttf');
+    src: url('../fonts/Lato-BlackItalic.ttf');
+}
+
+
+
 header {
     background-color: #79C000;
-    padding:20px 40px;
+    height:150px;
 }
 
 
@@ -8,5 +16,8 @@ h1 {
 
     color:white;
     text-align: right;
+    line-height: 150px;
     text-transform: uppercase;
+    font-family: 'Loto';
+    padding-right: 20px;
 }
