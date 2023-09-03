@@ -1,13 +1,23 @@
 main {
     margin: 30px auto;
-    padding: 15px 5px;
+    padding: 35px 15px;
     width:500px;
-    height:200px;
     background-color:#789090;
-    border: 2px solid #122;
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 30px;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
+}
+
+main h2, main h3, main h4 {
+    text-align: center;
+    color:#fff;
+}
+
+main p {
+    color:#fff;
+    text-shadow: 3px 3px 3px #000000;
+    font-size: 22px;
 }
