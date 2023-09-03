@@ -14,6 +14,7 @@ const Cite = () => {
         reprehenderit consectetur? Eveniet unde voluptatem, facere dolor
         similique quaerat incidunt alterado por Miguel de nuevo.
       </p>
+      <i className='bx bx-chevrons-right next-button'></i>
     </main>
   );
 };
