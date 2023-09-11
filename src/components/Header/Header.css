@@ -33,3 +33,16 @@ h1 {
     max-width: 150px;
     max-height:70px;
 }
+
+.dark-mode {
+    color:#fff;
+    background-color:#000;
+    font-size: 15px;
+    padding:15px;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+    -webkit-border-radius:10px;
+}
