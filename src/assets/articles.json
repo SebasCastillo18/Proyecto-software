@@ -1,0 +1,123 @@
+[
+    {
+        "chapter": "",
+        "chapterName": "",
+        "number": 0,
+        "question": "",
+        "title": "",
+        "body": "",
+        "items": [],
+        "paragraphs": []
+    },
+    {
+        "chapter": "CAPITULO VII",
+        "chapterName": "ASPECTOS ACADÉMICOS",
+        "number": 39,
+        "question": "¿Cómo puedo modificar mi registro académico?",
+        "title": "MODIFICACIÓN DE REGISTRO ACADÉMICO",
+        "body": "Los estudiantes podrán adicionar o cancelar un CADI o CAI, previa autorización de la coordinación o dirección del programa, dentro de las dos (2) primeras semanas de inicio del período académico.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "El estudiante podrá registrar créditos académicos en otro programa académico, de conformidad con las normas vigentes y previa autorización de la dirección o coordinación del programa en el cual los cursará."
+            },
+            {
+                "title": "Parágrafo 2",
+                "content": "No se podrá cancelar un CADI o CAI cuando el estudiante esté repitiendo o tenga pendiente por cursar de periodos anteriores."
+            },
+            {
+                "title": "Parágrafo 3",
+                "content": "La Oficina de Admisiones y Registro cancelará los créditos académicos que el estudiante matricule sin el cumplimiento de los requisitos dispuestos en las normas de la Universidad de Cundinamarca."
+            }
+        ],
+        "student_response": "Para modificar tu registro académico, debes obtener la autorización de la coordinación o dirección del programa y realizar los cambios dentro de las dos primeras semanas del período académico."
+    },
+    {
+        "chapter": "CAPITULO VII",
+        "chapterName": "ASPECTOS ACADÉMICOS",
+        "number": 40,
+        "question": "¿Quién asume los costos de transporte para las salidas académicas?",
+        "title": "SALIDAS ACADÉMICAS",
+        "body": "Las salidas académicas contribuyen a la formación complementaria y son fundamentales para el desarrollo de los proyectos curriculares. Los programas deben garantizar su desarrollo quedando explícitos en los planes de aprendizaje.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Los costos de transporte para las salidas académicas serán asumidos por la universidad, atendiendo los requerimientos establecidos para las mismas y según disponibilidad presupuestal."
+            }
+        ],
+        "student_response": "Los costos de transporte para las salidas académicas serán cubiertos por la universidad, siempre y cuando se cumplan con los requerimientos establecidos y haya disponibilidad presupuestal."
+    },
+    {
+        "chapter": "CAPITULO VIII",
+        "chapterName": "EVALUACIÓN",
+        "number": 41,
+        "question": "¿Puedo solicitar revisión de nota si pierdo una evaluación?",
+        "title": "DEFINICIÓN",
+        "body": "Es un proceso analítico que consiste en la recolección de datos, con el fin de evidenciar la transformación, mejora y logro de los resultados en los estudiantes o participantes en el campo de aprendizaje. Está compuesta por el trabajo independiente del estudiante o agente participante y el acompañamiento que realiza el profesor de manera directa. El proceso se llevará a cabo mediante la realimentación y mejora de cada uno de los estudiantes.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "El estudiante podrá solicitar por escrito al docente la revisión, modificación o corrección del resultado de la evaluación dentro de los tres (3) días hábiles siguientes a la divulgación de la calificación."
+            }
+        ],
+        "student_response": "Sí, puedes solicitar la revisión, modificación o corrección del resultado de una evaluación si pierdes la misma. Debes hacerlo por escrito al docente dentro de los tres (3) días hábiles siguientes a la divulgación de la calificación."
+    },
+    {
+        "chapter": "CAPITULO VIII",
+        "chapterName": "EVALUACIÓN",
+        "number": 42,
+        "question": "¿Cuáles son los porcentajes mínimos requeridos para los campos de aprendizaje institucional (CAI) y disciplinares (CADI)?",
+        "title": "RESULTADOS ESPERADOS DE APRENDIZAJE (REA)",
+        "body": "Los Resultados Esperados de Aprendizaje (REA) son enunciados que describen lo que se espera que el estudiante haga y demuestre durante y después de su formación en el campo de aprendizaje.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "El campo de aprendizaje institucional (CAI) o campo de aprendizaje disciplinar (CADI) se aprueba cuando el estudiante obtiene como mínimo el sesenta por ciento (60%) del Resultado Esperado de Aprendizaje (REA) equivalente a tres cero (3.0)."
+            },
+            {
+                "title": "Parágrafo 2",
+                "content": "Los campos de aprendizaje institucional (CAI) Lengua Extranjera Inglés, Ciudadanía Siglo 21 y Cátedra Generación siglo 21 y, los campos de aprendizaje disciplinares (CADI) correspondientes a las prácticas profesionales, pedagógicas o educativas, se aprueban cuando el estudiante obtiene como mínimo el setenta por ciento (70%) del Resultado Esperado de Aprendizaje (REA), equivalente a tres cinco (3.5)."
+            },
+            {
+                "title": "Parágrafo 3",
+                "content": "La valoración de los CADI o CAI se determina en términos porcentuales que serán equivalentes a una escala numérica al final del período académico."
+            }
+        ],
+        "student_response": "Para aprobar los campos de aprendizaje institucional (CAI) y disciplinares (CADI), debes obtener al menos el sesenta por ciento (60%) del Resultado Esperado de Aprendizaje (REA), que es equivalente a tres cero (3.0) en la escala numérica. Sin embargo, algunos campos específicos, como Lengua Extranjera Inglés, Ciudadanía Siglo 21 y Cátedra Generación Siglo 21, así como los campos de aprendizaje disciplinares relacionados con prácticas profesionales, pedagógicas o educativas, requieren al menos el setenta por ciento (70%) del REA, equivalente a tres cinco (3.5). La valoración se realizará en términos porcentuales al final del período académico."
+    },
+    {
+        "chapter": "CAPITULO VIII",
+        "chapterName": "EVALUACIÓN",
+        "number": 43,
+        "question": "¿Qué debo hacer si hay un error en el registro de los resultados finales de la evaluación?",
+        "title": "REPORTE FINAL DE LOS RESULTADOS DE LA EVALUACIÓN",
+        "body": "En caso de error en el registro de los resultados finales de la evaluación, que deban corregirse o modificarse en el sistema de información, el profesor notificará a la dirección o coordinación del programa, en el plazo de una (1) semana de iniciado el siguiente período académico, la corrección respectiva para su validación y comunicación a la Oficina de Admisiones y Registro.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "Si notas un error en el registro de los resultados finales de una evaluación, debes informarlo al profesor. El profesor notificará a la dirección o coordinación del programa dentro de la primera semana del siguiente período académico para que se realice la corrección en el sistema de información y se comunique a la Oficina de Admisiones y Registro."
+    },
+    {
+        "number": 44,
+        "question": "¿Cómo se calculan los promedios ponderados en la universidad?",
+        "title": "PROMEDIOS",
+        "body": "Para efectos de continuidad y permanencia en la universidad, operará el sistema de promedios ponderados. Para cada estudiante se calculará, al final de cada período académico, un promedio ponderado del período y un promedio ponderado acumulado del programa.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "El promedio ponderado del período académico se calcula multiplicando la calificación definitiva de cada CADI o CAI cursados, homologados o validados en dicho período, incluidos los no aprobados y repetidos, por su correspondiente número de créditos. Los productos resultantes se sumarán y este resultado se dividirá por el total de créditos cursados en el período."
+            },
+            {
+                "title": "Parágrafo 2",
+                "content": "Para calcular el promedio ponderado acumulado se aplicará el mismo procedimiento utilizado para calcular el promedio ponderado de un período académico, pero se tendrán en cuenta todos los CADI o CAI cursados por el estudiante, desde el comienzo de su ruta de aprendizaje en el programa académico en que se encuentra matriculado hasta el momento del cómputo. Deberán incluirse los CADI o CAI aprobados, los no aprobados, los repetidos y los validados u homologados."
+            }
+        ],
+        "student_response": "Los promedios ponderados en la universidad se calculan al final de cada período académico. El promedio ponderado del período se obtiene multiplicando la calificación definitiva de cada CADI o CAI cursados en dicho período por su número de créditos correspondientes, incluyendo los no aprobados y repetidos. Los productos resultantes se suman y se dividen por el total de créditos cursados en el período. El promedio ponderado acumulado se calcula de manera similar, considerando todos los CADI o CAI cursados desde el inicio del programa académico, incluyendo los aprobados, no aprobados, repetidos y validados u homologados."
+    }    
+    
+    
+]
