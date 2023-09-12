@@ -26,7 +26,7 @@ h1 {
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .img-logo {
     width:100px;
@@ -38,11 +38,19 @@ h1 {
     color:#fff;
     background-color:#000;
     font-size: 15px;
-    padding:15px;
+    padding:8px;
+    align-self: center;
+    cursor:pointer;
     border-radius:10px;
     -webkit-border-radius:10px;
     -moz-border-radius:10px;
     -ms-border-radius:10px;
     -o-border-radius:10px;
     -webkit-border-radius:10px;
+}
+
+.dark-mode:hover {
+    color:#000;
+    background-color: #fff;
+    
 }
