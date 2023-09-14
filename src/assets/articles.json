@@ -28,28 +28,7 @@
         "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
 
     },
-    {
-
-        "chapter": "CAPITULO III",
-        "chapterName": "INSCRIPCIÓN, SELECCIÓN, ADMISIÓN",
-        "number": 8,
-        "question": "¿Que es la inscripción?",
-        "title": "INSCRIPCIÓN",
-        "body": "La inscripción es el acto por el cual un aspirante accede a uno de los programas academicos de pregrado que ofrece la Universidad de Cundinamarca y acepta todas las condiciones y requisitos establecidos en el procedimiento, en las fechas señaladas en el calendario academico para el correspondiente periodo de la convocatoria",
-        "items": [
-
-        ],
-        "paragraphs": [
-            {
-                "title": "Paragrafo",
-                "content": "Se encuentra inhabilitado para ingresar como estudiante de pregrado a la universidad de cundinamarca quien este matriculado en un programa de pregrado en otra universidad publica o tenga titulo profesional Universitario"
-            }
-        ],
-
-        "student_response": "La inscripción es un proceso mediante el cual un aspirante decide ingresar a un programa academico que ofrece la Universidad de Cundinamarca"
-
-
-    },
+    
     {
         "chapter": "CAPITULO II",
         "chapter_name": "ESTUDIANTE",
@@ -79,6 +58,54 @@
             }
         ],
         "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."
+    },
+    {
+
+        "chapter": "CAPITULO III",
+        "chapterName": "INSCRIPCIÓN, SELECCIÓN, ADMISIÓN",
+        "number": 8,
+        "question": "¿Que es la inscripción?",
+        "title": "INSCRIPCIÓN",
+        "body": "La inscripción es el acto por el cual un aspirante accede a uno de los programas academicos de pregrado que ofrece la Universidad de Cundinamarca y acepta todas las condiciones y requisitos establecidos en el procedimiento, en las fechas señaladas en el calendario academico para el correspondiente periodo de la convocatoria",
+        "items": [
+
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Se encuentra inhabilitado para ingresar como estudiante de pregrado a la universidad de cundinamarca quien este matriculado en un programa de pregrado en otra universidad publica o tenga titulo profesional Universitario"
+            }
+        ],
+
+        "student_response": "La inscripción es un proceso mediante el cual un aspirante decide ingresar a un programa academico que ofrece la Universidad de Cundinamarca"
+
+
+    },
+    {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 9,
+        "question": "¿Cuales son los requisitos para realizar la inscripción",
+        "title": "REQUISITOS PARA LA INSCRIPCIÓN",
+        "body": "Para realizar el procedimeinto de inscripción debe cumplir con los siguientes requisitos",
+        "items": [
+            "1. Formulario diligenciado de inscripcion que se encuentra en la pagina web",
+            "2. Adquirir el PIN teniedno en cuenta los derechos pecuniarios fijados por la institución y efectuar el pago respectivo",
+            "3. Copia del titulo de bachiller y al acta de grado o la resolución de convalidación si se trata de un titulo otorgado fuera del pais",
+            "4. Acreditar el resultado de la prueba del estado del ICFES o su equivalente si es aspirante graduado de institución extranjera",
+            "5. Copia del documento de identidad (cedula de ciudadania, tarjeta e identidad o cedula extranjera)",
+            "6. Copia de un documento que acredite la afiliación vigente a un regimen de salud social en salud contributivo o subsidiado",
+            "7. Los de mas consignados en los procedimientos, normas internas, la constitución y la ley"
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Solo se permite la inscripción en uno de los programas de pregrado ofertados por la Universidad de Cundinamarca"
+
+
+            }
+        ],
+        "student_response": "Los requisitos para poder realizar la inscripcion son todos aquellos estipulados"
     },
 
     {
