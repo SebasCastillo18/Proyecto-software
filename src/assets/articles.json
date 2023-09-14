@@ -1,13 +1,14 @@
 [
     {
         "chapter": "",
-        "chapterName": "",
+        "chapter_name": "",
         "number": 0,
         "question": "",
         "title": "",
         "body": "",
         "items": [],
-        "paragraphs": []
+        "paragraphs": [],
+        "student_response": ""
     },
 
     {
@@ -52,7 +53,7 @@
 
     {
         "chapter": "CAPITULO VII",
-        "chapterName": "ASPECTOS ACADÉMICOS",
+        "chapter_name": "ASPECTOS ACADÉMICOS",
         "number": 39,
         "question": "¿Cómo puedo modificar mi registro académico?",
         "title": "MODIFICACIÓN DE REGISTRO ACADÉMICO",
@@ -76,7 +77,7 @@
     },
     {
         "chapter": "CAPITULO VII",
-        "chapterName": "ASPECTOS ACADÉMICOS",
+        "chapter_name": "ASPECTOS ACADÉMICOS",
         "number": 40,
         "question": "¿Quién asume los costos de transporte para las salidas académicas?",
         "title": "SALIDAS ACADÉMICAS",
@@ -92,7 +93,7 @@
     },
     {
         "chapter": "CAPITULO VIII",
-        "chapterName": "EVALUACIÓN",
+        "chapter_name": "EVALUACIÓN",
         "number": 41,
         "question": "¿Puedo solicitar revisión de nota si pierdo una evaluación?",
         "title": "DEFINICIÓN",
@@ -108,7 +109,7 @@
     },
     {
         "chapter": "CAPITULO VIII",
-        "chapterName": "EVALUACIÓN",
+        "chapter_name": "EVALUACIÓN",
         "number": 42,
         "question": "¿Cuáles son los porcentajes mínimos requeridos para los campos de aprendizaje institucional (CAI) y disciplinares (CADI)?",
         "title": "RESULTADOS ESPERADOS DE APRENDIZAJE (REA)",
@@ -132,7 +133,7 @@
     },
     {
         "chapter": "CAPITULO VIII",
-        "chapterName": "EVALUACIÓN",
+        "chapter_name": "EVALUACIÓN",
         "number": 43,
         "question": "¿Qué debo hacer si hay un error en el registro de los resultados finales de la evaluación?",
         "title": "REPORTE FINAL DE LOS RESULTADOS DE LA EVALUACIÓN",
@@ -142,6 +143,8 @@
         "student_response": "Si notas un error en el registro de los resultados finales de una evaluación, debes informarlo al profesor. El profesor notificará a la dirección o coordinación del programa dentro de la primera semana del siguiente período académico para que se realice la corrección en el sistema de información y se comunique a la Oficina de Admisiones y Registro."
     },
     {
+        "chapter": "CAPITULO VIII",
+        "chapter_name": "EVALUACIÓN",
         "number": 44,
         "question": "¿Cómo se calculan los promedios ponderados en la universidad?",
         "title": "PROMEDIOS",
@@ -158,7 +161,293 @@
             }
         ],
         "student_response": "Los promedios ponderados en la universidad se calculan al final de cada período académico. El promedio ponderado del período se obtiene multiplicando la calificación definitiva de cada CADI o CAI cursados en dicho período por su número de créditos correspondientes, incluyendo los no aprobados y repetidos. Los productos resultantes se suman y se dividen por el total de créditos cursados en el período. El promedio ponderado acumulado se calcula de manera similar, considerando todos los CADI o CAI cursados desde el inicio del programa académico, incluyendo los aprobados, no aprobados, repetidos y validados u homologados."
-    }    
-    
-    
+    },
+    {
+        "chapter": "CAPÍTULO IX",
+        "chapter_name": "TRABAJO DE GRADO",
+        "number": 45,
+        "question": "¿Qué es el trabajo de grado en un programa académico?",
+        "title": "DEFINICIÓN",
+        "body": "El trabajo de grado es un componente de la ruta de aprendizaje de cada programa académico que, en su elaboración, permite al estudiante integrar y aplicar los conocimientos adquiridos en los CAI de Ciencia Tecnología e Innovación (CTI), Emprendimiento e Innovación o componente de Profundización.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "El trabajo de grado en un programa académico es un componente esencial que brinda la oportunidad a los estudiantes de integrar y aplicar los conocimientos que han adquirido en los CAI de Ciencia Tecnología e Innovación (CTI), Emprendimiento e Innovación, o el componente de Profundización de su programa de estudios."
+    },
+    {
+        "chapter": "CAPÍTULO IX",
+        "chapter_name": "TRABAJO DE GRADO",
+        "number": 46,
+        "question": "¿Cuáles son las opciones disponibles para el trabajo de grado de los estudiantes de pregrado?",
+        "title": "OPCIONES DE TRABAJO DE GRADO",
+        "body": "Los estudiantes de pregrado tendrán las siguientes opciones para optar al título profesional del programa:",
+        "items": [
+            "1. Monografía o artículo publicable. Documento escrito producto del campo de aprendizaje de Ciencia, Tecnología e Innovación (CTI).",
+            "2. Ruta emprendimiento e innovación. Consiste en la presentación del plan de emprendimiento construido dentro del campo de aprendizaje institucional (CAI).",
+            "3. Título de especialización. Es la opción que tiene el estudiante de complementar el componente de profundización, con los estudios de posgrado en el nivel de especialización, una vez haya completado los diez (10) créditos correspondientes a la ruta de aprendizaje de programa.",
+            "4. Pasantía. Es la inmersión que hace un estudiante para complementar su formación a través de su vinculación a una institución pública o privada, desarrollando actividades propias de su saber disciplinar.",
+            "5. Obra de creación artística. Es una producción de conocimiento que aporta a la reinterpretación de la realidad, que se materializa y se comunica a través de los códigos propios de las disciplinas artísticas."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Para optar por la pasantía, el estudiante debe haber aprobado todos los CADI y CAI de la ruta de aprendizaje a excepción del trabajo de grado."
+            },
+            {
+                "title": "Parágrafo 2",
+                "content": "El Consejo Académico expedirá un acuerdo especial para reglamentar estas opciones de grado."
+            }
+        ],
+        "student_response": "Los estudiantes de pregrado tienen varias opciones para optar al título profesional de su programa. Estas opciones están numeradas y se presentan a continuación:\n\n1. Monografía o artículo publicable. Documento escrito producto del campo de aprendizaje de Ciencia, Tecnología e Innovación (CTI).\n2. Ruta emprendimiento e innovación. Consiste en la presentación del plan de emprendimiento construido dentro del campo de aprendizaje institucional (CAI).\n3. Título de especialización. Es la opción que tiene el estudiante de complementar el componente de profundización, con los estudios de posgrado en el nivel de especialización, una vez haya completado los diez (10) créditos correspondientes a la ruta de aprendizaje de programa.\n4. Pasantía. Es la inmersión que hace un estudiante para complementar su formación a través de su vinculación a una institución pública o privada, desarrollando actividades propias de su saber disciplinar.\n5. Obra de creación artística. Es una producción de conocimiento que aporta a la reinterpretación de la realidad, que se materializa y se comunica a través de los códigos propios de las disciplinas artísticas. Además, para elegir la pasantía, se requiere haber aprobado todos los CADI y CAI de la ruta de aprendizaje, a excepción del trabajo de grado. El Consejo Académico también emitirá un acuerdo especial para regular estas opciones de grado."
+    },
+    {
+        "chapter": "CAPÍTULO IX",
+        "chapter_name": "TRABAJO DE GRADO",
+        "number": 47,
+        "question": "¿Cuáles son los derechos pecuniarios asociados al trabajo de grado?",
+        "title": "DERECHOS PECUNIARIOS DEL TRABAJO DE GRADO",
+        "body": "Al estudiante que solo le falte trabajo de grado para culminar su ruta de aprendizaje, deberá pagar los derechos pecuniarios correspondientes a un (1) crédito académico por única vez.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Si pasado este periodo académico sin haber culminado el trabajo de grado, el estudiante deberá pagar los derechos pecuniarios correspondientes al total de la matrícula."
+            }
+        ],
+        "student_response": "Los derechos pecuniarios asociados al trabajo de grado son los siguientes: Si a un estudiante solo le falta el trabajo de grado para completar su ruta de aprendizaje, deberá pagar los derechos correspondientes a un (1) crédito académico por única vez. Sin embargo, si pasa este periodo académico sin haber culminado el trabajo de grado, deberá pagar los derechos pecuniarios correspondientes al total de la matrícula."
+    },
+    {
+        "chapter": "CAPÍTULO X",
+        "chapter_name": "GRADUACIÓN",
+        "number": 48,
+        "question": "¿Qué es la definición de grado en un programa académico?",
+        "title": "DEFINICIÓN DE GRADO",
+        "body": "Es el reconocimiento oficial que se hace mediante título otorgado por la institución al estudiante, que ha culminado la ruta de aprendizaje de un programa académico y cumplido con todos los requisitos administrativos y de ley.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "La definición de grado en un programa académico se refiere al reconocimiento oficial que otorga la institución al estudiante que ha completado satisfactoriamente la ruta de aprendizaje de un programa académico y ha cumplido con todos los requisitos administrativos y legales establecidos."
+    },
+    {
+        "chapter": "CAPÍTULO X",
+        "chapter_name": "GRADUACIÓN",
+        "number": 49,
+        "question": "¿Cuáles son las fechas de graduación en la universidad?",
+        "title": "GRADUACIÓN",
+        "body": "La universidad define en el calendario académico dos fechas por periodo para graduación.",
+        "items": [
+            "1. Ordinarias. Es la ceremonia que se realiza en la fecha establecida por calendario académico y es presidida por el rector o su delegado.",
+            "2. Extraordinarias. Se realiza en la fecha establecida por calendario académico sin protocolo de ceremonia."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Cuando exista causa justificada, el graduando puede otorgar poder legal a una persona, mayor de edad, quien en su nombre y representación gestione y reciba el diploma correspondiente."
+            }
+        ],
+        "student_response": "En la universidad, existen dos fechas de graduación establecidas en el calendario académico: 1) Ordinarias, que corresponden a ceremonias presididas por el rector o su delegado en las fechas programadas por la institución, y 2) Extraordinarias, que se llevan a cabo en las fechas establecidas por el calendario académico sin un protocolo de ceremonia específico. Además, en casos de causa justificada, un graduando puede otorgar poder legal a una persona mayor de edad para gestionar y recibir el diploma en su nombre y representación."
+    },
+    {
+        "chapter": "CAPÍTULO X",
+        "chapter_name": "GRADUACIÓN",
+        "number": 50,
+        "question": "¿Cuáles son los requisitos para obtener el título de grado?",
+        "title": "REQUISITOS PARA LA OBTENCIÓN DEL TÍTULO DE GRADO",
+        "body": "Son requisitos para la obtención del título de grado:",
+        "items": [
+            "1. Haber cursado y aprobado la totalidad de los campos de aprendizaje que hacen parte de la ruta de aprendizaje del respectivo programa académico.",
+            "2. Estar a paz y salvo por todo concepto con la universidad.",
+            "3. Cancelar los derechos de grado dentro de los tiempos establecidos en el calendario académico.",
+            "4. Haber presentado las pruebas de Estado.",
+            "5. Las demás que establezcan las normas internas de la universidad."
+        ],
+        "paragraphs": [],
+        "student_response": "Para obtener el título de grado, se deben cumplir varios requisitos enumerados a continuación:\n\n1) Haber cursado y aprobado la totalidad de los campos de aprendizaje que hacen parte de la ruta de aprendizaje del respectivo programa académico.\n2) Estar a paz y salvo por todo concepto con la universidad.\n3) Cancelar los derechos de grado dentro de los tiempos establecidos en el calendario académico.\n4) Haber presentado las pruebas de Estado.\n5) Cumplir con cualquier otro requisito que establezcan las normas internas de la universidad."
+    },
+    {
+        "chapter": "CAPÍTULO X",
+        "chapter_name": "GRADUACIÓN",
+        "number": 51,
+        "question": "¿Qué es el grado póstumo y bajo qué condiciones se otorga?",
+        "title": "GRADO PÓSTUMO",
+        "body": "El Consejo Académico podrá autorizar el grado póstumo en los casos de fallecimiento de un estudiante que haya cursado al menos el sesenta por ciento (60 %) de los créditos de su ruta de aprendizaje.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "El grado póstumo será entregado a un familiar autorizado."
+            }
+        ],
+        "student_response": "El grado póstumo es una distinción que el Consejo Académico puede otorgar en casos de fallecimiento de un estudiante, siempre y cuando ese estudiante haya cursado al menos el sesenta por ciento (60 %) de los créditos de su ruta de aprendizaje. Esta distinción se entrega a un familiar autorizado en su nombre."
+    },
+    {
+        "chapter": "CAPÍTULO X",
+        "chapter_name": "GRADUACIÓN",
+        "number": 52,
+        "question": "¿Cómo puedo obtener un duplicado de un diploma universitario?",
+        "title": "DUPLICADO DE UN DIPLOMA",
+        "body": "La universidad podrá expedir duplicado del diploma en caso de pérdida del original, cambio de nombre o deterioro, a solicitud del interesado, previo al pago de los derechos pecuniarios establecidos.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Si alguno de los funcionarios que firmaron el diploma original está ausente, se escribirá su nombre en el sitio de la firma del mismo, con el aval de la Secretaría General."
+            }
+        ],
+        "student_response": "Para obtener un duplicado de un diploma universitario, es necesario solicitarlo a la universidad en caso de pérdida del original, cambio de nombre o deterioro. Esto se puede hacer previo al pago de los derechos pecuniarios establecidos. En caso de que alguno de los funcionarios que firmaron el diploma original esté ausente, su nombre se escribirá en el lugar de la firma del mismo, con el aval de la Secretaría General."
+    },
+    {
+        "chapter": "CAPÍTULO XI",
+        "chapter_name": "INCENTIVOS Y RECONOCIMIENTOS",
+        "number": 53,
+        "question": "¿Cuáles son los incentivos reconocidos por la Universidad de Cundinamarca?",
+        "title": "INCENTIVOS",
+        "body": "Son incentivos reconocidos por la Universidad de Cundinamarca los siguientes:",
+        "items": [
+            "1. Delegaciones y representaciones. Cuando sean financiadas por la Universidad, previo concepto del Consejo de Facultad; si son de orden nacional o internacional, serán conferidas por el Consejo Académico.",
+            "2. Monitorias. Las monitorias establecidas en la Universidad, se otorgarán según reglamentación expedida por el Consejo Académico y los estudiantes favorecidos, deberán conservar un promedio ponderado acumulado mínimo de tres cinco (3.5).",
+            "3. Mejor prueba de Estado. El Consejo Superior reglamentará la exoneración del pago de los derechos de grado a los estudiantes que obtuvieran un puntaje global ubicado en el decil superior por Grupo de Referencia (GR) o Núcleo Básico de Conocimiento (NBC) en las pruebas de Estado.",
+            "4. Matrícula de honor. Se concede a los estudiantes que, en cada periodo académico por programa, obtengan los dos (2) promedios ponderados académicos más altos, pero que, en todo caso, no sean inferiores a cuatro cinco (4.5) y no hayan reprobado ningún CADI o CAI. Esta distinción se concederá mediante resolución expedida por la Secretaria General, una vez realizado el reporte por la Oficina de Admisiones, Registro y se exonerará del pago de derechos de matrícula para el siguiente período académico."
+        ],
+        "paragraphs": [],
+        "student_response": "La Universidad de Cundinamarca reconoce varios incentivos para los estudiantes, que incluyen:\n\n1) Delegaciones y representaciones financiadas por la Universidad, previo concepto del Consejo de Facultad; las de orden nacional o internacional son conferidas por el Consejo Académico.\n2) Monitorias, que se otorgan de acuerdo con la reglamentación del Consejo Académico y requieren que los estudiantes favorecidos mantengan un promedio ponderado acumulado mínimo de tres cinco (3.5).\n3) Exoneración del pago de los derechos de grado para estudiantes que obtengan un puntaje global ubicado en el decil superior por Grupo de Referencia (GR) o Núcleo Básico de Conocimiento (NBC) en las pruebas de Estado, reglamentado por el Consejo Superior.\n4) Matrícula de honor para estudiantes que obtengan los dos (2) promedios ponderados académicos más altos en cada periodo académico por programa, siempre que no sean inferiores a cuatro cinco (4.5) y no hayan reprobado ningún CADI o CAI. Esta distinción se concede mediante resolución de la Secretaría General y exonera del pago de derechos de matrícula para el siguiente período académico."
+    },
+    {
+        "chapter": "CAPÍTULO XI",
+        "chapter_name": "INCENTIVOS Y RECONOCIMIENTOS",
+        "number": 54,
+        "question": "¿Cómo son reconocidos los estudiantes de la Universidad de Cundinamarca?",
+        "title": "RECONOCIMIENTOS",
+        "body": "Los estudiantes de la Universidad de Cundinamarca serán reconocidos por:",
+        "items": [
+            "1. Excelencia académica. Los estudiantes que obtengan durante todo su programa académico un promedio ponderado acumulado igual o superior a cuatro cinco (4.5), sin haber reprobado CADI o CAI alguno, tendrán derecho al reconocimiento de Excelencia académica, el cual será otorgado por el respectivo Consejo de Facultad el cual expedirá la resolución correspondiente.",
+            "2. Mejor prueba de Estado. Es otorgado por el Consejo Académico a los estudiantes que obtengan un puntaje global ubicado en el decil superior por Grupo de Referencia (GR) o NÚcleo Básico de Conocimiento (NBC) en las pruebas de Estado de acuerdo con los parámetros establecidos por ICFES.",
+            "3. Trabajo de grado meritorio. Por solicitud motivada de los jurados este reconocimiento será otorgado mediante resolución expedida por el Consejo de Facultad previa valoración del aporte académico, artístico o social segun criterios objetivos puntuables.",
+            "4. Trabajo de grado laureado. Por solicitud motivada del Consejo de Facultad, este reconocimiento será otorgado mediante resolución del Consejo Académico previa valoración del aporte académico, artístico o social, según variables y criterios objetivos puntuables.",
+            "5. Grado de honor. Este reconocimiento se hace en el momento de la graduación y será otorgado por el Consejo Académico, al estudiante que hubiere obtenido un promedio ponderado acumulado igual o superior a cuatro cinco (4.5), sin haber perdido CADI o CAI alguno y cuyo trabajo de grado haya sido calificado como laureado."
+        ],
+        "paragraphs": [],
+        "student_response": "Los estudiantes de la Universidad de Cundinamarca pueden ser reconocidos de diversas formas, incluyendo:\n\n1) Reconocimiento de Excelencia académica para aquellos que obtengan un promedio ponderado acumulado igual o superior a cuatro cinco (4.5) durante todo su programa académico sin reprobar CADI o CAI alguno, otorgado por el respectivo Consejo de Facultad.\n2) Reconocimiento por obtener el puntaje global ubicado en el decil superior por Grupo de Referencia (GR) o Núcleo Básico de Conocimiento (NBC) en las pruebas de Estado, otorgado por el Consejo Académico de acuerdo con los parámetros de ICFES.\n3) Reconocimiento de Trabajo de grado meritorio, otorgado por solicitud motivada de los jurados y mediante resolución del Consejo de Facultad, tras la valoración del aporte académico, artístico o social según criterios objetivos puntuables.\n4) Reconocimiento de Trabajo de grado laureado, otorgado por solicitud motivada del Consejo de Facultad y mediante resolución del Consejo Académico, tras la valoración del aporte académico, artístico o social según variables y criterios objetivos puntuables.\n5) Grado de honor, otorgado en el momento de la graduación por el Consejo Académico a estudiantes que obtengan un promedio ponderado acumulado igual o superior a cuatro cinco (4.5), sin haber perdido CADI o CAI alguno y cuyo trabajo de grado haya sido calificado como laureado."
+    },
+    {
+        "chapter": "CAPÍTULO XII",
+        "chapter_name": "RÉGIMEN DISCIPLINARIO",
+        "number": 55,
+        "question": "¿Cuál es el propósito del Reglamento Estudiantil y a qué se refiere con conductas contrarias?",
+        "title": "DEFINICIÓN",
+        "body": "El presente Reglamento Estudiantil está orientado a prevenir y corregir conductas contrarias a la visión, la misión y los objetivos institucionales, así como la educación para la vida, los valores democráticos, la civilidad y la libertad, entendiéndose por tales aquellas que atentaren contra la Constitución, la Ley, las normas de la universidad y el orden académico en general.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "El propósito del Reglamento Estudiantil es prevenir y corregir conductas que sean contrarias a la visión, misión y objetivos de la institución, así como a la educación para la vida, los valores democráticos, la civilidad y la libertad. Estas conductas contrarias se refieren a aquellas que atenten contra la Constitución, la Ley, las normas de la universidad y el orden académico en general."
+    },
+    {
+        "chapter": "CAPÍTULO XII",
+        "chapter_name": "RÉGIMEN DISCIPLINARIO",
+        "number": 56,
+        "question": "¿Cuál es la finalidad de las normas disciplinarias según este artículo?",
+        "title": "FINALIDAD",
+        "body": "La finalidad de las normas disciplinarias es la formación y el aprendizaje de los estudiantes de pregrado, previstas para asegurar una educación para la vida, los valores democráticos, la civilidad y la libertad.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "La finalidad de las normas disciplinarias según este artículo es la formación y el aprendizaje de los estudiantes de pregrado, con el objetivo de asegurar una educación que promueva la vida, los valores democráticos, la civilidad y la libertad."
+    },
+    {
+        "chapter": "CAPÍTULO XII",
+        "chapter_name": "RÉGIMEN DISCIPLINARIO",
+        "number": 57,
+        "question": "¿A quiénes se aplica este reglamento disciplinario según el artículo?",
+        "title": "CAMPO DE APLICACIÓN",
+        "body": "Se aplica a los estudiantes de pregrado y a los que tienen calidad de estudiantes al momento de cometer la falta, así se hayan retirado de la universidad.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "Este reglamento disciplinario se aplica a los estudiantes de pregrado y a aquellos que tienen la calidad de estudiantes en el momento en que cometen la falta, incluso si se han retirado de la universidad."
+    },
+    {
+        "chapter": "CAPÍTULO XII",
+        "chapter_name": "RÉGIMEN DISCIPLINARIO",
+        "number": 58,
+        "question": "¿Cuál es el principio rector de actuación en el procedimiento disciplinario según este artículo?",
+        "title": "PRINCIPIOS RECTORES",
+        "body": "La Universidad de Cundinamarca adopta el derecho fundamental al debido proceso en el marco de su procedimiento disciplinario, como el principio rector de su actuación. Para tal fin, cuenta con unas premisas, a saber:",
+        "items": [
+            "1. La institución tiene un Reglamento vinculante para toda la comunidad universitaria, compatible con la Constitución y, en especial, con la protección de los derechos fundamentales y de formación para la vida, los valores democráticos, la civilidad y la libertad.",
+            "2. Describe el hecho o la conducta sancionable.",
+            "3. La persona cuenta con garantías adecuadas para su defensa y ejercicio pleno del derecho al debido proceso.",
+            "4. La sanción corresponde a la naturaleza de la falta cometida, de tal manera, que no se sancione disciplinariamente lo que no ha sido previsto como falta disciplinaria.",
+            "5. La sanción sea proporcional a la gravedad de la falta.",
+            "6. La sanción sea impuesta por el órgano competente designado por la Universidad.",
+            "7. La interpretación de estas normas jurídicas corresponde a las instancias competentes de la institución."
+        ],
+        "paragraphs": [],
+        "student_response": "El principio rector de actuación en el procedimiento disciplinario según este artículo es el derecho fundamental al debido proceso. La Universidad de Cundinamarca se basa en este principio y establece algunas premisas importantes, como:\n\n1) Tener un Reglamento vinculante compatible con la Constitución y que proteja los derechos fundamentales y la formación para la vida, los valores democráticos, la civilidad y la libertad para toda la comunidad universitaria.\n2) Describir claramente el hecho o la conducta sancionable.\n3) Garantizar a la persona el ejercicio pleno del derecho al debido proceso y proporcionar garantías adecuadas para su defensa.\n4) Imponer sanciones que correspondan a la naturaleza de la falta cometida, evitando sancionar disciplinariamente lo que no haya sido previsto como falta disciplinaria.\n5) Asegurarse de que la sanción sea proporcional a la gravedad de la falta cometida.\n6) Designar al órgano competente de la Universidad para imponer la sanción.\n7) Dejar la interpretación de estas normas jurídicas en manos de las instancias competentes de la institución."
+    },
+    {
+        "chapter": "CAPÍTULO XII",
+        "chapter_name": "RÉGIMEN DISCIPLINARIO",
+        "number": 59,
+        "question": "¿Cuál es el plazo de prescripción para la acción académica disciplinaria según este artículo?",
+        "title": "PRESCRIPCIÓN",
+        "body": "La acción académica disciplinaria aquí establecida, prescribe en un término de tres (3) años contados a partir de la comisión del hecho que origina la actuación disciplinaria.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "En las conductas continuadas o de tracto sucesivo, se contará la prescripción a partir del último hecho constitutivo de falta disciplinaria."
+            }
+        ],
+        "student_response": "Según este artículo, el plazo de prescripción para la acción académica disciplinaria es de tres (3) años, que se cuentan a partir de la comisión del hecho que da origen a la actuación disciplinaria. En el caso de conductas continuadas o de tracto sucesivo, la prescripción se cuenta a partir del último hecho que constituye la falta disciplinaria."
+    },
+    {
+        "chapter": "CAPÍTULO XIII",
+        "chapter_name": "DERECHOS, DEBERES Y FALTAS",
+        "number": 60,
+        "question": "¿Cuáles son los derechos de los estudiantes de pregrado según este artículo?",
+        "title": "DERECHOS",
+        "body": "Son derechos de los estudiantes de pregrado de la Universidad de Cundinamarca:",
+        "items": [
+            "1. Acceder a los recursos que la universidad ha dispuesto para el desarrollo del programa escogido, de conformidad con los reglamentos establecidos para ello.",
+            "2. Recibir la formación académica con base en la oferta curricular y el plan de aprendizaje establecidos en el contrato de matrícula.",
+            "3. Expresar sus ideas y argumentos en forma respetuosa, con toda la libertad dentro de la tolerancia que amerita la opinión ajena.",
+            "4. Presentar peticiones, ser asistido y escuchado con respeto y responsabilidad por parte de las instancias académicas y administrativas de la universidad.",
+            "5. Ser asesorado académicamente por los directores o coordinadores de programa, decanaturas y docentes de la Universidad, siguiendo el conducto regular.",
+            "6. Elegir y ser elegido representante a los órganos colegiados de la Universidad, atendiendo los mecanismos establecidos para tal efecto.",
+            "7. Acceder a los conductos regulares para presentar reclamaciones y solicitudes.",
+            "8. Ser escuchado en descargos atendiendo el debido proceso cuando sea necesario.",
+            "9. Conocer, de manera oportuna, el calendario del período académico.",
+            "10. Disfrutar de los programas de Bienestar Universitario de conformidad con las políticas y los reglamentos fijados por la Universidad y la ley.",
+            "11. Ser delegado o elegido como representante para participar como ponente en eventos de carácter académico, investigativo, artístico o deportivo, siempre que su promedio acumulado sea igual o superior a cuatro cero (4.0).",
+            "12. El Derecho a la protesta, en los términos del artículo 37 de la Constitución Política de Colombia y los demás consignados en la Carta Política, en los convenios internacionales y en las normas que rigen en Colombia.",
+            "13. Acudir ante la Defensoría del Pueblo o ante autoridad competente para que lo asista en la defensa de sus derechos en el procedimiento académico fijado en este reglamento."
+        ],
+        "paragraphs": [],
+        "student_response": "Los derechos de los estudiantes de pregrado según este artículo son:\n\n1. Acceder a los recursos que la universidad ha dispuesto para el desarrollo del programa escogido, de acuerdo con los reglamentos establecidos.\n2. Recibir formación académica basada en la oferta curricular y el plan de aprendizaje del contrato de matrícula.\n3. Expresar ideas y argumentos de manera respetuosa y con libertad, dentro de los límites de la tolerancia.\n4. Presentar peticiones y ser asistidos y escuchados con respeto y responsabilidad por parte de las instancias académicas y administrativas.\n5. Ser asesorados académicamente por directores o coordinadores de programa, decanaturas y docentes siguiendo el conducto regular.\n6. Elegir y ser elegidos como representantes en órganos colegiados de la Universidad, siguiendo los mecanismos establecidos.\n7. Acceder a los conductos regulares para presentar reclamaciones y solicitudes.\n8. Ser escuchados en descargos, garantizando el debido proceso cuando sea necesario.\n9. Conocer de manera oportuna el calendario del período académico.\n10. Disfrutar de los programas de Bienestar Universitario según las políticas y reglamentos de la Universidad y la ley.\n11. Ser delegados o elegidos como representantes en eventos académicos, investigativos, artísticos o deportivos, siempre que su promedio acumulado sea igual o superior a cuatro cero (4.0).\n12. El Derecho a la protesta, según lo establecido en el artículo 37 de la Constitución Política de Colombia y otros convenios internacionales y normativas nacionales.\n13. Acudir ante la Defensoría del Pueblo o la autoridad competente para recibir asistencia en la defensa de sus derechos en el procedimiento académico establecido en este reglamento."
+    },
+    {
+        "chapter": "CAPÍTULO XIII",
+        "chapter_name": "DERECHOS, DEBERES Y FALTAS",
+        "number": 61,
+        "question": "¿Cuáles son los deberes de los estudiantes de pregrado según este artículo?",
+        "title": "DEBERES",
+        "body": "Son deberes de los estudiantes de pregrado de la Universidad de Cundinamarca:",
+        "items": [
+            "1. Dar cumplimiento a la Constitución, la ley, el Proyecto Educativo Universitario y las demás normas de la universidad.",
+            "2. Conocer y cumplir la ley y reglas establecidas por las instituciones con las que se suscriban convenios. Su desconocimiento por parte del estudiante no es excusa para eximirse de su cumplimiento.",
+            "3. Respetar y dar buen trato a todas las personas (compañeros, docentes, administrativos y directivos).",
+            "4. No abusar de sus propios derechos y no violar los de los demás miembros de la comunidad universitaria, según lo estipulado en el artículo 95 de la Constitución Política de Colombia.",
+            "5. Respetar las posturas teóricas, metodológicas y los argumentos de las personas (compañeros, docentes, administrativos y directivos) absteniéndose de ejercer presión o discriminación que les impida la libre expresión.",
+            "6. Asistir cumplidamente a las sesiones programadas para el desarrollo del plan de aprendizaje y presentar las evaluaciones previstas que exija el proceso académico.",
+            "7. Conocer y dedicar el tiempo requerido para el trabajo autónomo o independiente, de acuerdo con lo establecido en la ruta de aprendizaje de los CADI o CAI programados para el semestre.",
+            "8. Preservar, cuidar y mantener en buen estado los recursos de enseñanza, equipos y dotación que la Universidad ha dispuesto para la prestación del servicio educativo.",
+            "9. Abstenerse de introducir, producir, comercializar, distribuir, portar, promover el uso y consumo de licor, narcóticos o sustancias psicoactivas como tampoco presentarse a la universidad o a las instituciones con las cuales se suscriban convenios, bajo el efecto de estas sustancias.",
+            "10. Abstenerse de portar, usar o traficar armas de cualquier clase.",
+            "11. Cancelar los derechos pecuniarios en las fechas previamente determinadas en el calendario académico y a su favor, la suma correspondiente a los derechos pecuniarios por concepto de la prestación del servicio educativo como parte del proceso de matrícula.",
+            "12. Estar a paz y salvo con todas las dependencias de la universidad para efectuar el registro académico para el siguiente período.",
+            "13. No cometer fraude académico o plagio en las pruebas de evaluación, exámenes o trabajos escritos presentados en desarrollo del proceso de aprendizaje y formación, así como el respeto a la propiedad intelectual.",
+            "14. Denunciar los delitos, las contravenciones y faltas de las que tenga conocimiento.",
+            "15. Velar y aportar a la excelencia académica del programa al cual está matriculado.",
+            "16. Efectuar el pago de la matrícula según los lineamientos y procedimientos fijados por el gobierno nacional.",
+            "17. Realizar las comunicaciones y notificaciones al interior de la universidad a través del correo asignado por la institución.",
+            "18. Las demás que le señale la Constitución Política de Colombia, la ley y demás normas de la universidad."
+        ],
+        "paragraphs": [],
+        "student_response": " Los deberes de los estudiantes de pregrado incluyen cumplir con la Constitución, la ley y las normas universitarias, respetar a todos en la comunidad universitaria, asistir a clases y cumplir con las evaluaciones, no abusar de los derechos propios ni violar los de otros, respetar las opiniones de los demás, preservar los recursos universitarios, abstenerse de usar sustancias prohibidas o armas, pagar los derechos a tiempo, no cometer fraude académico ni plagio, denunciar delitos y contribuir a la excelencia académica."
+    }
 ]
