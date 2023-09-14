@@ -9,6 +9,47 @@
         "items": [],
         "paragraphs": []
     },
+
+    {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 2,
+        "question": "¿A quien va dirigido el reglamento estudiantil?",
+        "title": "AMBITO DE APLICACIÓN",
+        "body": "El presente reglamento estudiantil, se aplicara, a todos los aspirantes y estudiantes que se vinculen a los programas academicos que hallan realizado su reasignación curricular o renovado su registro calificado, reconocido mediante el ministerio de educación nacional",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Se aplicara a todos los estudiantes nuevos y aquellos que de manera voluntaria previo estudio de principio de favorabilidad soliciten su asimilación a la ruta de aprendizaje del programa resignificado."
+            }
+        ],
+        "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
+
+    },
+    {
+
+        "chapter": "CAPITULO III",
+        "chapterName": "INSCRIPCIÓN, SELECCIÓN, ADMISIÓN",
+        "number": 8,
+        "question": "¿Que es la inscripción?",
+        "title": "INSCRIPCIÓN",
+        "body": "La inscripción es el acto por el cual un aspirante accede a uno de los programas academicos de pregrado que ofrece la Universidad de Cundinamarca y acepta todas las condiciones y requisitos establecidos en el procedimiento, en las fechas señaladas en el calendario academico para el correspondiente periodo de la convocatoria",
+        "items": [
+
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Se encuentra inhabilitado para ingresar como estudiante de pregrado a la universidad de cundinamarca quien este matriculado en un programa de pregrado en otra universidad publica o tenga titulo profesional Universitario"
+            }
+        ],
+
+        "student_response": "La inscripción es un proceso mediante el cual un aspirante decide ingresar a un programa academico que ofrece la Universidad de Cundinamarca"
+
+
+    },
+
     {
         "chapter": "CAPITULO VII",
         "chapterName": "ASPECTOS ACADÉMICOS",
