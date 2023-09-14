@@ -50,6 +50,36 @@
 
 
     },
+    {
+        "chapter": "CAPITULO II",
+        "chapter_name": "ESTUDIANTE",
+        "number": 7,
+        "question": "¿Por que razones se pierde la condición de estudiante?",
+        "title": "PERDIDA DE LA CONDICIÓN DE ESTUDIANTE",
+        "body": "La condición de estudiante de la Universidad de Cundinamarca se dara por terminada cuando: ",
+       
+        
+        
+        "items": [
+            "1. Cumple con los requisitos academicos del programa de formació de pregrado en el cual estaba matriculado y obtiene el titulo correspondiente.",
+            "2. Se encuentre en firme acto administrativo mediante el cual ha sido sancionado disciplinariamnete con la cancelación de la matricula.",
+            "3. Pierde por 3 vez el mismo campo de Aprendizaje Institucional o Disciplinar.",
+            "4. Exprese voluntariamente su decision de retirarse del programa y de la institución de manera definitiva",
+            "5. No haga uso del derecho de renovacion de matricula para el periodo siguiente segun los plazos previstos en el calenadario academico correspondiente.",
+            "6. No haya pagado los derechos pecunarios en los tiempos establecidos para la matricula",
+            "7. El promedio ponderado acumulado sea inferior a tres dos (3.2) para los estudiantes de primer semestre el promedio acumulado sera el mismo ponderado del semestre.",
+            "8. No se haga uso del reintegro en los tiempos estipulados por la universidad para el periodo academico solicitado.",
+            "9. Se incurra en fraude en la documnetación requerida por la institución, ante lo cual se le sancionara mediante un debido proceso.",
+            "10. El estudiante que no se matricule medinate 4 periodos academicos continuos o dicontinuos no podra ser reintegrado al programa y en consecuencia perdera la calidad de estudiante."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "Content": "El consejo Academico establecera el procedimiento"
+            }
+        ],
+        "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."
+    },
 
     {
         "chapter": "CAPITULO VII",
