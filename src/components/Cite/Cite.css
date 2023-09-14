@@ -1,10 +1,10 @@
 main {
-
     position:relative;
     margin: 30px auto;
     padding-top:12px;
     padding-left:30px;
-    padding-bottom: 19px;
+    padding-right: 30px;
+    padding-bottom: 20px;
     width:700px;
     height:250px;
     background-color:#789090;
@@ -34,6 +34,7 @@ main p {
     color:#fff;
     text-shadow: 3px 3px 3px #000000;
     font-size: 22px;
+    text-align: justify;
 }
 
 .next-button {
