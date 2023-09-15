@@ -3,7 +3,7 @@ import "./Cite.css";
 const Cite = ({ currentArticle }) => {
   return (
     <main>
-      <section>
+      <section className="article_section">
         <h2>{currentArticle.chapter}</h2>
         <h3>{currentArticle.chapter_name}</h3>
 
@@ -12,8 +12,8 @@ const Cite = ({ currentArticle }) => {
         </h4>
         <p>
           {currentArticle.body}
-          {currentArticle.items.length && (
-            <ol>
+          {currentArticle.items.length > 0 && (
+            <ol className="items_list">
               {currentArticle.items.map((item) => (
                 <li key={item}>
                   <p>{item}</p>
@@ -21,8 +21,8 @@ const Cite = ({ currentArticle }) => {
               ))}
             </ol>
           )}
-          {currentArticle.paragraphs.length && (
-            <ul>
+          {currentArticle.paragraphs.length > 0 && (
+            <ul className="paragraphs_list">
               {currentArticle.paragraphs.map((paragraph) => (
                 <li key={paragraph.title}>
                   <p>{paragraph.title}</p>
@@ -32,10 +32,10 @@ const Cite = ({ currentArticle }) => {
             </ul>
           )}
         </p>
+        <div>
+          <i className="bx bx-chevrons-right next-button"></i>
+        </div>
       </section>
-      <button>
-        <i className="bx bx-chevrons-right next-button"></i>
-      </button>
     </main>
   );
 };
