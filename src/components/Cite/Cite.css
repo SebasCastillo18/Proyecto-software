@@ -5,8 +5,9 @@ main {
     padding-left:30px;
     padding-right: 30px;
     padding-bottom: 20px;
-    width:700px;
-    height:250px;
+    min-width: 700px;
+    max-width: 80%;
+    height: auto;
     background-color:#789090;
     border: 3px solid rgb(0, 0, 0);
     border-radius: 30px;
