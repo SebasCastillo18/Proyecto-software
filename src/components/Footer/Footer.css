@@ -1,6 +1,6 @@
 footer {
-    width: 100%;
-    height: 20%;
+    width: 100vw;
+    height: 20vh;
     background-color: #4d4d4d;
     display: flex;
     justify-content: center;
