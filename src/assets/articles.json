@@ -10,6 +10,104 @@
         "paragraphs": [],
         "student_response": ""
     },
+
+    {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 2,
+        "question": "¿A quien va dirigido el reglamento estudiantil?",
+        "title": "AMBITO DE APLICACIÓN",
+        "body": "El presente reglamento estudiantil, se aplicara, a todos los aspirantes y estudiantes que se vinculen a los programas academicos que hallan realizado su reasignación curricular o renovado su registro calificado, reconocido mediante el ministerio de educación nacional",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Se aplicara a todos los estudiantes nuevos y aquellos que de manera voluntaria previo estudio de principio de favorabilidad soliciten su asimilación a la ruta de aprendizaje del programa resignificado."
+            }
+        ],
+        "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
+
+    },
+    
+    {
+        "chapter": "CAPITULO II",
+        "chapter_name": "ESTUDIANTE",
+        "number": 7,
+        "question": "¿Por que razones se pierde la condición de estudiante?",
+        "title": "PERDIDA DE LA CONDICIÓN DE ESTUDIANTE",
+        "body": "La condición de estudiante de la Universidad de Cundinamarca se dara por terminada cuando: ",
+       
+        
+        
+        "items": [
+            "1. Cumple con los requisitos academicos del programa de formació de pregrado en el cual estaba matriculado y obtiene el titulo correspondiente.",
+            "2. Se encuentre en firme acto administrativo mediante el cual ha sido sancionado disciplinariamnete con la cancelación de la matricula.",
+            "3. Pierde por 3 vez el mismo campo de Aprendizaje Institucional o Disciplinar.",
+            "4. Exprese voluntariamente su decision de retirarse del programa y de la institución de manera definitiva",
+            "5. No haga uso del derecho de renovacion de matricula para el periodo siguiente segun los plazos previstos en el calenadario academico correspondiente.",
+            "6. No haya pagado los derechos pecunarios en los tiempos establecidos para la matricula",
+            "7. El promedio ponderado acumulado sea inferior a tres dos (3.2) para los estudiantes de primer semestre el promedio acumulado sera el mismo ponderado del semestre.",
+            "8. No se haga uso del reintegro en los tiempos estipulados por la universidad para el periodo academico solicitado.",
+            "9. Se incurra en fraude en la documnetación requerida por la institución, ante lo cual se le sancionara mediante un debido proceso.",
+            "10. El estudiante que no se matricule medinate 4 periodos academicos continuos o dicontinuos no podra ser reintegrado al programa y en consecuencia perdera la calidad de estudiante."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "Content": "El consejo Academico establecera el procedimiento"
+            }
+        ],
+        "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."
+    },
+    {
+
+        "chapter": "CAPITULO III",
+        "chapterName": "INSCRIPCIÓN, SELECCIÓN, ADMISIÓN",
+        "number": 8,
+        "question": "¿Que es la inscripción?",
+        "title": "INSCRIPCIÓN",
+        "body": "La inscripción es el acto por el cual un aspirante accede a uno de los programas academicos de pregrado que ofrece la Universidad de Cundinamarca y acepta todas las condiciones y requisitos establecidos en el procedimiento, en las fechas señaladas en el calendario academico para el correspondiente periodo de la convocatoria",
+        "items": [
+
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Se encuentra inhabilitado para ingresar como estudiante de pregrado a la universidad de cundinamarca quien este matriculado en un programa de pregrado en otra universidad publica o tenga titulo profesional Universitario"
+            }
+        ],
+
+        "student_response": "La inscripción es un proceso mediante el cual un aspirante decide ingresar a un programa academico que ofrece la Universidad de Cundinamarca"
+
+
+    },
+    {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 9,
+        "question": "¿Cuales son los requisitos para realizar la inscripción",
+        "title": "REQUISITOS PARA LA INSCRIPCIÓN",
+        "body": "Para realizar el procedimeinto de inscripción debe cumplir con los siguientes requisitos",
+        "items": [
+            "1. Formulario diligenciado de inscripcion que se encuentra en la pagina web",
+            "2. Adquirir el PIN teniedno en cuenta los derechos pecuniarios fijados por la institución y efectuar el pago respectivo",
+            "3. Copia del titulo de bachiller y al acta de grado o la resolución de convalidación si se trata de un titulo otorgado fuera del pais",
+            "4. Acreditar el resultado de la prueba del estado del ICFES o su equivalente si es aspirante graduado de institución extranjera",
+            "5. Copia del documento de identidad (cedula de ciudadania, tarjeta e identidad o cedula extranjera)",
+            "6. Copia de un documento que acredite la afiliación vigente a un regimen de salud social en salud contributivo o subsidiado",
+            "7. Los de mas consignados en los procedimientos, normas internas, la constitución y la ley"
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Solo se permite la inscripción en uno de los programas de pregrado ofertados por la Universidad de Cundinamarca"
+
+
+            }
+        ],
+        "student_response": "Los requisitos para poder realizar la inscripcion son todos aquellos estipulados"
+    },
+
     {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
