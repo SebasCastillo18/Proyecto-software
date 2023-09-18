@@ -1,11 +1,8 @@
-
-
 * {
     margin:0px;
     padding:0px;
     box-sizing: border-box;
 }
-
 body {
     background-color: #007B3E;
     overflow-x: hidden;

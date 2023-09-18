@@ -1,6 +1,9 @@
 import "./Cite.css";
 
-const Cite = ({ currentArticle }) => {
+const Cite = ({ currentArticle, changeArticle }) => {
+  const handleClick = () => {
+    changeArticle();
+  }
   return (
     <main>
       <section className="article_section">
@@ -32,7 +35,7 @@ const Cite = ({ currentArticle }) => {
             </ul>
           )}
         </p>
-        <div>
+        <div onClick={handleClick}>
           <i className="bx bx-chevrons-right next-button"></i>
         </div>
       </section>
