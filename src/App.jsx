@@ -17,7 +17,7 @@ const App = () => {
   return (
     <section className='App'>
         <Header/>
-        <Cite currentArticle={article}/>
+        <Cite currentArticle={article} changeArticle={() => setArticle(getRandomArticle())}/>
         <Footer/>
     </section>
   )
