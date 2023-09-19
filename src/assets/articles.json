@@ -10,7 +10,6 @@
         "paragraphs": [],
         "student_response": ""
     },
-
     {
         "chapter": "CAPITULO I",
         "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
@@ -26,9 +25,7 @@
             }
         ],
         "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
-
     },
-    
     {
         "chapter": "CAPITULO II",
         "chapter_name": "ESTUDIANTE",
@@ -36,9 +33,6 @@
         "question": "¿Por que razones se pierde la condición de estudiante?",
         "title": "PERDIDA DE LA CONDICIÓN DE ESTUDIANTE",
         "body": "La condición de estudiante de la Universidad de Cundinamarca se dara por terminada cuando: ",
-       
-        
-        
         "items": [
             "1. Cumple con los requisitos academicos del programa de formació de pregrado en el cual estaba matriculado y obtiene el titulo correspondiente.",
             "2. Se encuentre en firme acto administrativo mediante el cual ha sido sancionado disciplinariamnete con la cancelación de la matricula.",
@@ -60,26 +54,20 @@
         "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."
     },
     {
-
         "chapter": "CAPITULO III",
         "chapterName": "INSCRIPCIÓN, SELECCIÓN, ADMISIÓN",
         "number": 8,
         "question": "¿Que es la inscripción?",
         "title": "INSCRIPCIÓN",
         "body": "La inscripción es el acto por el cual un aspirante accede a uno de los programas academicos de pregrado que ofrece la Universidad de Cundinamarca y acepta todas las condiciones y requisitos establecidos en el procedimiento, en las fechas señaladas en el calendario academico para el correspondiente periodo de la convocatoria",
-        "items": [
-
-        ],
+        "items": [],
         "paragraphs": [
             {
                 "title": "Paragrafo",
                 "content": "Se encuentra inhabilitado para ingresar como estudiante de pregrado a la universidad de cundinamarca quien este matriculado en un programa de pregrado en otra universidad publica o tenga titulo profesional Universitario"
             }
         ],
-
         "student_response": "La inscripción es un proceso mediante el cual un aspirante decide ingresar a un programa academico que ofrece la Universidad de Cundinamarca"
-
-
     },
     {
         "chapter": "CAPITULO III",
@@ -101,13 +89,52 @@
             {
                 "title": "Paragrafo",
                 "content": "Solo se permite la inscripción en uno de los programas de pregrado ofertados por la Universidad de Cundinamarca"
-
-
             }
         ],
         "student_response": "Los requisitos para poder realizar la inscripcion son todos aquellos estipulados"
     },
-
+    {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 10,
+        "question": "¿Como es la selección de programas de pregrado?",
+        "title": "SELECCIÓN PROGRAMAS DE PREGRADO",
+        "body": "Es el proceso por medio del cual cada programa academico selecciona los aspirantes que cumplen con los perfiles de ingreso y criterios establecidos conforme a las normas internas de la institución.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "De acuerdo a los lineaminetos establecidos por parte de cada programa academico."
+    },
+    {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 11,
+        "question": "¿Como es la caracterización de los estudiantes?",
+        "title": "CARACTERIZACIÓN",
+        "body": "La universidad de cundinamarca caracterizara a sus estudiantes en relación con los siguientes aspectos: social, familiar, socioeconomico, cultural y psicosocial, entre otras, para lo cual se cumplira con el respectivo procedimiento institucional.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "La caracterización es el proceso en el cual se hace un estudio a cada estudiante, dependiendo diferentes aspectos."
+    },
+    {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 13,
+        "question": "¿Que es la matricula en la Universidad de Cundinamarca?",
+        "title": "MATRICULA",
+        "body": "Es el acto mediante el cual, se adquiere la calidad de estudiante, se formaliza a traves del pago correspondiente y el registro de los campos de aprendizaje disciplinares (CADI) e institucionales (CAI) que hacen parte de la ruta de aprendizaje en cumplimiento de las normas internas de la universidad y de acuerdo con el calendario academico institucional.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "El consejo academico establecera tres fechas diferentes para llevar a cabo la matricula"
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "El estudiante, al momento de realizar el registro de sus campos de aprendizaje, autoriza a la universidad de Cundinamarca a recibir información y notificaciones a travez de su correo institucional para el tratamiento de los datos personales."
+            }
+        ],
+        "student_response": "La matricula es el instante en que el la calidad de estudiante de la Universidad de Cundinamarca se adquiere."
+    },
     {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
@@ -533,7 +560,7 @@
                 "title": "Parágrafo 1",
                 "content": "Cuando la falta disciplinaria sea a la vez susceptible de configurar un delito, la sanción se impondrá sin perjuicio de presentar la respectiva denuncia ante la autoridad competente."
             }
-        ],        
+        ],
         "student_response": "Este artículo enumera las conductas que constituyen falta disciplinaria en la Universidad de Cundinamarca. Estas incluyen el fraude académico, la sustracción de información reservada, la discriminación, el uso indebido de recursos de la universidad, el consumo de drogas ilegales en las instalaciones universitarias y otras conductas que atentan contra el orden académico e institucional. Además, se establece que cuando una falta disciplinaria también puede constituir un delito, se impondrá una sanción disciplinaria, pero también se presentará una denuncia ante la autoridad competente."
     },
     {
@@ -592,5 +619,5 @@
         "items": [],
         "paragraphs": [],
         "student_response": "El proceso para el desarrollo de la audiencia en el procedimiento disciplinario implica que una vez notificado el auto de citación a audiencia, se establece una fecha y hora para la audiencia, que debe ocurrir entre cinco (5) y quince (15) días hábiles después de la notificación. Durante la audiencia, el estudiante tiene el derecho de presentar su versión, su defensa, solicitar pruebas y objetar las pruebas presentadas en el expediente. Si solicita pruebas, se evalúa su pertinencia, y en caso de ser testimoniales, se programan para una fecha posterior. Además, el estudiante puede estar acompañado por un acudiente o un defensor de su confianza durante todo el procedimiento."
-    }    
+    }
 ]
