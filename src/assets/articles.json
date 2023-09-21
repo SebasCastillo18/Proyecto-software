@@ -136,6 +136,63 @@
         "student_response": "La matricula es el instante en que el la calidad de estudiante de la Universidad de Cundinamarca se adquiere."
     },
     {
+        "chapter": "CAPTITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 15,
+        "question": "¿Que es la renovación de matricula?",
+        "title": "RENOVACIÓN DE MATRICULA",
+        "body": "Es el procedimeinto que consiste en el registro de los campos de aprendizaje autorizados, que se hace para cada periodo academico con base en el calendario establecido con base en el Consejo Academico y la oficina de Admisiones y registro, en  cumplimiento de los requsitos fijados en ese reglamento.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Para las renovaciones de matricula, el estudiante debe tener sansiones disciplinarias en firme por faltas graves contempladas en este reglamento."
+            }
+        ],
+        "student_response": "Es el proceso en el cual se renueva al estudiante su matricula a medida que avanza en su programa academico."
+    },
+    {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 16,
+        "question": "¿Como se puede cancelar la matricula academica?",
+        "title": "CANCELACIÓN DE MATRICULA ACADEMICA",
+        "body": "La cancelación puede solicitarse dentro de los dos  (2) primeras semanas siguientes al inicio del periodo academico por:",
+        "items": [
+            "1. Desción voluntaria del estudiante mediante radicado via correo electronico u oficio dirigido a la oficina de Admisiones y registro.",
+            "2. Motivos de fuerza mayor o caso fortuito.",
+            "3. Desición institucional en cualquier momento del desarrollo academico de un programa, por comprobación de inexactitud en la información suministrada o falta de documentos que son requisitos de inscripción.",
+            "4. Por sanción disciplinaria que ordene la cancelación de la matricula academica."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "El estudiante de cohorte nueva que cancele su matricula academica antes de iniciar calendario academico, si aspira a ingresar nuevamente debera dar cumplimiento a todo el procedimiento establecido para aspirantes."
+            }
+        ],
+        "student_response": "La matricula se puede cancelar segun los parametros establecidos."
+    },
+    {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 18,
+        "question": "¿Como es el numero de cupos en la Universidad de Cundinamarca?",
+        "title": "NÚMERO DE CUPOS",
+        "body": "El número de cupos para cada programa academico esta determinado por resolución del Ministerio de Educación Nacional y podrán acceder a estos, quienes cumplan con los requisitos establecidos en la normatividad nacional e institucional, el consejo academico establecera el numero de cupos de aspirantes a programas en la universidad pertenecientes a grupos priorizados según la normatividad vigente en esa materia.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Cuando un aspirante admitido no se matriculen en el plazo estipulado, se completara el cupo con el aspirante que siga en puntaje y cumpla con los requisitos."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "El número minimo de estudiantes y de grupos con los cuales se dara apertura al primer semestre academico para cada programa sra definido por el Consejo Academico. En caso de no contemplar el cupo fijado por el consejo Academico los derechso de inscripción seran devueltos a cada aspirante."
+            }
+        ],
+        "student_response": "Los cupos seran establecidos segun los estandares."
+    },
+    {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
         "number": 39,
@@ -780,5 +837,5 @@
         "items": [],
         "paragraphs": [],
         "student_response": "Este acuerdo entra en vigencia a partir de la fecha de su publicación y anula cualquier disposición anterior que sea contraria a él."
-    }    
+    }
 ]
