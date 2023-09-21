@@ -43,6 +43,8 @@ main {
     font-size: 25px;
     text-align: justify;
     font-weight: bold;
+    line-height: 42px;
+    letter-spacing: 2px;
     word-spacing: 8px;
 }
 
