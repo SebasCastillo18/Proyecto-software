@@ -193,6 +193,106 @@
         "student_response": "Los cupos seran establecidos segun los estandares."
     },
     {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 19,
+        "question": "¿Minimo ciuantos estudiantes debe tener cada grupo?",
+        "title": "GRUPOS",
+        "body": "Los grupos por campo de aprendizaje institucional o disciplinar de la universidad se organizaran con un minimo de 8 estudiantes. En caso de no lograr el minimo establecido prvisto y con el animo de no afectar la continuidad en su proceso de formación, el estudiante podra registrar y adelantar el campo de aprendizaje  mediantes estrateguas de formación y aprendizaje que ofrezca la universidad, previo aval del consejo de facultad.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Para los programas de bellas artes, el número de estudiantes sera previsto de acuerdo con la naturaleza de la disciplina."
+            }
+        ],
+        "student_response": "El cupo minimo de estudiantes depende del programa."
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 20,
+        "question": "¿Que es el retiro voluntario?",
+        "title": "RETIRO VOLUNTARIO",
+        "body": "Una vez realizada la matricula, el estudiante que, por motivos de fuerza mayor, diferentes a situaciones academicas o disciplinarias desee retirarse, debe comunicar por escrito su decisión a la dirección o coordinación del programa al que pertenece la cual remitira a la oficina de admisiones y TRegistro para la correspondiente cancelación del registro academico, dentro de los plazos establecidos para tal efecto en el calendario academico por el Consejo Academico.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "Es cuando el estudiante por situaciones que no incluyen los aspectos academicos decide por voluntad propia retitarse del programa academico."
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 21,
+        "question": "¿Como es el proceso de reingreso?",
+        "title": "REINGRESO",
+        "body": "Es el procedimiento mediante el cual un estudiante manifiesta su interes para reincorporarse al programa en el cual estaba matriculado dentro de los terminos y tiempos fijados en el calenadario academico a´probado por el consejo Academico. El reintegro aplica cuando: 1. Haya cancelado la matricula; 2. No renovado su matricula; 3. Haber aprobado como minimo un periodo academico en un programa de la Universidad de Cundinamarca y 4. Viabilidad previa conceptuada por el respectivo comite curricular.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Cumplidos los cuatro (4) periodos academicos continuos o discontinuos sin registro de matricula, no se podra conceder ningun reintegro."
+            }
+        ],
+        "student_response": "Es el proceso mediante el cual el estudiante decide volver a ser parte de la comunidad universitari, en el rol de estudiante."
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 22,
+        "question": "'¿Cuales son los tramites para realizar el reingreso a la Universidad de Cundinamarca?",
+        "title": "El interesado tramitira el reingreso a traves de la plataforma institucional y sera aprobado por el Consejo de Facultad y comunicado al solicitante y a la Oficina de Admisiones y Registro, siempre y cuando cumpla con lo establecido en el presente Reglamento Estudiantil y no tuviere sansiones disciplinarias vigentes.",
+        "body": "",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "El estudiante se acogera a la nueva ruta de aprendizaje que este vigente al momento de resolver el reingreso, para lo cual el Comite Curricular presentara la ruta de formación de acuerdo con el plan de transición (asimilación) que sera de riguroso cumplimiento."
+            }
+        ],
+        "student_response": "Los tramites a relizar son todos aquellos que se estipulen segun lo acordado."
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 23,
+        "question": "¿Que es el traslado interno?",
+        "title": "TRASLADO INTERNO",
+        "body": "Es el tramite mediante el cual un estudiante solicita continuar su proceso de formación y aprendizaje en el programa academico en el cual se encuentra matriculado y que es ofertado en otra sede, seccional o extensión de la Universidad, previo estudio por parte de la dirección o coordinación del programa al cual requiere el traslado y aval del Comite Curricular",
+        "items": [],
+        "paragraphs": [],
+        "student_response": "Es el proceso en el cual, el estudiante desea continuar su proceso academico, en una regional de la Universidad distinta."
+    },
+
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 24,
+        "question": "¿Que es la transferencia en la Universidad de Cundinamarca?",
+        "title": "TRANSFERENCIA",
+        "body": "Es el procedimiento por medio del cual la Universidad admite a un aspirante proveniente de otra institución nacional o internacional y programa academico homologo o, un estudiante de un programa academico de pregrado que oferte la Universidad de Cundinamarca. La institución nacional y el programa del cual el aspirante procede deberán congtar con la respectiva aprobación por parte del Ministerio de Educación Nacional y con su registro calificado vigente durante el o los periodos en los que curso sus estudios, junto con su registro en el Sistema Nacional de Información de Instituciones de Educación Superior (SNIES) o su homologo, para instituciones internacionales. El consejo de Facultad del programa tendra en cuenta antes de resolver la transferencia lo siguiente.",
+        "items": [
+            "1. Verificación de cupos disponibles en el programa.",
+            "2. Revisión de requisitos efectuado por el comite curricular del programa.",
+            "3. Estudio previo de homologación realizado por el comite curricular del programa."
+        ],
+        "paragraphs": [],
+        "student_response": "La transferencia es cuando un estudiante de la Universidad de Cundinamarca es admitido o aprobado para tomar clases en una Universidad nacional o internacional."
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 25,
+        "question": "¿Que clases de transferencia existen en la Universidad de Cundinamarca?",
+        "title": "CLASES DE TRANFERENCIA",
+        "body": "En la Universidad de Cundinamarca las tranferencias se categorizan como:",
+        "items": [
+            "1. Externa. Es aquella solicitud que hace un aspirante deotra universidad nacional o internacional, para ingresar a un programa de pregrado en la Universidad de Cundinamarca.",
+            "2. Interna. Es aquella solicitud que realiza un estudiante de un programa academico para ingresar a otro, dentro de la Universidad."
+        ],
+        "paragraphs": [],
+        "student_response": "En la Universidad de Cundinamarca hay dos tipos de trasnferencia las cuales son: Interna y Externa"
+    },
+    {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
         "number": 39,
