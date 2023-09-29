@@ -6,6 +6,7 @@ const Cite = ({ currentArticle, changeArticle }) => {
   };
   return (
     <div>
+     
       <form action="">
         <label htmlFor="articulo">Buscar Articulo</label>
         <input type="text" />
@@ -13,6 +14,7 @@ const Cite = ({ currentArticle, changeArticle }) => {
       </form>
       <main>
         <section className="article_section">
+          
           <h2>{currentArticle.chapter}</h2>
           <h3>{currentArticle.chapter_name}</h3>
 
