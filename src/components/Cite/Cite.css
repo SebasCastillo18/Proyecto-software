@@ -58,7 +58,7 @@ main {
     padding-bottom: 40px;
     max-width: 90%;
     height: auto;
-    background-image:url("../../../public/images/udec.jpeg");
+    background-color: #00482b;
     border-radius: 20px;
     width: 90%;
     -webkit-border-radius: 20px;
@@ -71,7 +71,7 @@ main {
 .article_section h3,
 .article_section h4 {
     text-align: center;
-    color: #ffffff;
+    color: #fff;
 }
 
 .article_section h2 {
@@ -82,8 +82,8 @@ main {
 }
 
 .article_section p {
-    color: #ffffff;
-    text-shadow: 0px 0px 20px #000;
+    color: #fff;
+    text-shadow: 0px 0px 8px #000000;
     font-size: 25px;
     text-align: justify;
     font-weight: bold;
