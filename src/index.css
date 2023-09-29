@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("images/udec.jpeg");
+    background-image: url("/images/udec.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
