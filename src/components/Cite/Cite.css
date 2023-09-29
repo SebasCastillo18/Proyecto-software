@@ -2,7 +2,7 @@ form {
     background-color: #000;
     padding: 20px;
     width: 90%;
-    height:90px;
+    height: 90px;
     margin: 0px auto;
     border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -50,6 +50,7 @@ main {
 }
 
 .article_section {
+    opacity: .7;
     position: relative;
     margin: 30px auto;
     padding-top: 12px;
