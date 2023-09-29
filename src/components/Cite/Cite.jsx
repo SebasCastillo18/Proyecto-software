@@ -9,6 +9,7 @@ const Cite = ({ currentArticle, changeArticle }) => {
       <form action="">
         <label htmlFor="articulo">Buscar Articulo</label>
         <input type="text" />
+        <i className='bx bx-search-alt'></i>
       </form>
       <main>
         <section className="article_section">
