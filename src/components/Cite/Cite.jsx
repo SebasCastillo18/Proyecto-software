@@ -42,6 +42,7 @@ const Cite = ({ currentArticle, changeArticle }) => {
             )}
           </p>
           <div onClick={handleClick}>
+          <i className='button-anterior bx bx-chevrons-left'></i>
             <i className="bx bx-chevrons-right next-button"></i>
           </div>
         </section>
