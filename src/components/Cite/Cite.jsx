@@ -6,15 +6,13 @@ const Cite = ({ currentArticle, changeArticle }) => {
   };
   return (
     <div>
-     
       <form action="">
         <label htmlFor="articulo">Buscar Articulo</label>
         <input type="text" />
-        <i className='bx bx-search-alt'></i>
+        <i className="bx bx-search-alt"></i>
       </form>
       <main>
         <section className="article_section">
-          
           <h2>{currentArticle.chapter}</h2>
           <h3>{currentArticle.chapter_name}</h3>
 
@@ -44,7 +42,7 @@ const Cite = ({ currentArticle, changeArticle }) => {
             )}
           </p>
           <div onClick={handleClick}>
-          <i className='button-anterior bx bx-chevrons-left'></i>
+            <i className="button-anterior bx bx-chevrons-left"></i>
             <i className="bx bx-chevrons-right next-button"></i>
           </div>
         </section>

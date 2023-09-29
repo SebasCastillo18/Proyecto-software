@@ -5,12 +5,20 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
-footer p {
+footer a {
     color: #ffffff;
     font-size: 16px;
-    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer span {
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .udec-link {
@@ -27,4 +35,23 @@ footer p {
 .udec-link:hover {
     color: #79c000;
     cursor: pointer;
+}
+
+.rule {
+    text-decoration: none;
+    color:#fff;
+    transition:all 400ms;
+    -webkit-transition:all 400ms;
+    -moz-transition:all 400ms;
+    -ms-transition:all 400ms;
+    -o-transition:all 400ms;
+}
+
+.rule:hover {
+    color: #79c000;
+    
+}
+
+.bx {
+    font-size: 40px;
 }

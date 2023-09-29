@@ -34,7 +34,7 @@
             "El promedio ponderado acumulado sea inferior a tres dos (3.2) para los estudiantes de primer semestre el promedio acumulado sera el mismo ponderado del semestre.",
             "No se haga uso del reintegro en los tiempos estipulados por la universidad para el periodo academico solicitado.",
             "Se incurra en fraude en la documnetación requerida por la institución, ante lo cual se le sancionara mediante un debido proceso.",
-    "El estudiante que no se matricule medinate 4 periodos academicos continuos o dicontinuos no podra ser reintegrado al programa y en consecuencia perdera la calidad de estudiante."
+            "El estudiante que no se matricule medinate 4 periodos academicos continuos o dicontinuos no podra ser reintegrado al programa y en consecuencia perdera la calidad de estudiante."
         ],
         "paragraphs": [
             {
@@ -151,10 +151,10 @@
         "title": "CANCELACIÓN DE MATRICULA ACADEMICA",
         "body": "La cancelación puede solicitarse dentro de los dos  (2) primeras semanas siguientes al inicio del periodo academico por:",
         "items": [
-    "Desción voluntaria del estudiante mediante radicado via correo electronico u oficio dirigido a la oficina de Admisiones y registro.",
-    "Motivos de fuerza mayor o caso fortuito.",
-    "Desición institucional en cualquier momento del desarrollo academico de un programa, por comprobación de inexactitud en la información suministrada o falta de documentos que son requisitos de inscripción.",
-    "Por sanción disciplinaria que ordene la cancelación de la matricula academica."
+            "Desción voluntaria del estudiante mediante radicado via correo electronico u oficio dirigido a la oficina de Admisiones y registro.",
+            "Motivos de fuerza mayor o caso fortuito.",
+            "Desición institucional en cualquier momento del desarrollo academico de un programa, por comprobación de inexactitud en la información suministrada o falta de documentos que son requisitos de inscripción.",
+            "Por sanción disciplinaria que ordene la cancelación de la matricula academica."
         ],
         "paragraphs": [
             {
@@ -254,7 +254,6 @@
         "paragraphs": [],
         "student_response": "Es el proceso en el cual, el estudiante desea continuar su proceso academico, en una regional de la Universidad distinta."
     },
-
     {
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
