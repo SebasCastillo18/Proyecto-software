@@ -8,7 +8,7 @@ const Footer = () => {
        
     
 <span> Vigilada MinEducación.</span>
-      <a className="rule" target="_blan" href="/public/documents/reglamento.pdf">Reglamento</a>
+      <a className="rule" target="_blan" href="/documents/reglamento.pdf">Reglamento</a>
     </footer>
   )
 }
