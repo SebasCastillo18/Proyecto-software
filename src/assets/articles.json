@@ -280,6 +280,80 @@
         "paragraphs": [],
         "student_response": "En la Universidad de Cundinamarca hay dos tipos de trasnferencia las cuales son: Interna y Externa"
     },
+
+    {
+
+        "chapter": "CAPITULO VI",
+        "chapter_name": "INTERCAMBIO UNIVERSITARIO",
+        "number": 36,
+        "question": "",
+        "title": "REQUISITOS Y CRITERIOS PARA EL INTERCAMBIO UNIVERSITARIO",
+        "body": "El estudiante que desee realizar parte de sus estudios en otra institución de educación superior que tenga convenio vigente con la Universidad de Cundinamarca, en Colombia o en el extranjero, debera presentar la correspondiente solicitud al director o coordinador del programa academico, anexando:",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
+    {
+
+        "chapter": "CAPITULO VI",
+        "chapter_name": "INTERCAMBIO UNIVERSITARIO",
+        "number": 35,
+        "question": "",
+        "title": "INTERCAMBIO UNIVERSITARIO",
+        "body": "Es el proceso mediante el cual, un estudiante cursa creditos academicos de su ruta de aprendizaje, en una institución de educación superior diferente a la Universidad de Cundinamarca en Colombia o en el extranjero",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Los campos de aprendizaje, seminarios, cursos, modulos o nucleos cursados en la institución de educación superior, en Colombia o en el extranjero, seran tenidos en cuenta por el programa academico al cual pertenece el estudiante."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "No podra ser objeto de intercambio Universitario los creditos que componen el campo de aprendizaje institucional (CAI)."
+            }
+        ],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO VII",
+        "chapter_name": "ASPECTOS ACADEMICOS",
+        "number": 37,
+        "question": "",
+        "title": "CREDITO ACADEMICO",
+        "body": "Es la unidad de medida del tiempo estimado de una actividad academica del estudiante, equivalente a cuarente y ocho  (48) horas de trabajo, incluidas las horas de acompañamiento de docencia directa, tutorias, estudio independiente, practicas, preparación de evaluaciones u otras estrategias necesarias para alcanzar los resultados Esperados de Aprendizaje (REA).",
+        "items": [
+            "Certificado expedido por la autoridad competente en la institución a la cual desee trasladarse, en el que conste la aprobación preliminar o admisión del estudiante en el plan de estudios y por el termino propuesto.",
+            "Tener un promedio academico acumulado minimo de tres cinco (3.5).",
+            "No tener sansiones disciplinarias vigentes",
+            "Haber cursado como minimo el treinta por ciento (30%) de los creditos del programa.",
+            "El estudiante quedara obligado a cumplir las condiciones establecidas en el acuerdo entre las instituciones involucradas. De la misma manera, debera aprobar los campos de aprendizaje, seminarios, cursos, modulos o nucleos aportando certificación de la institución en la cual realice el intercambio",
+            "El comite curricular sera responsable de realizar el estudio de la ruta de aprendizaje o plan de estudios que desee adelantar el estudiantey establecer su equivalencia con el de la Universidad de Cundinamarca",
+            "La dirección o corrdinación del programa academico, previa aprobación del consejo de Facultad, comunicara al estudiante de la decisión tomada."
+        ],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO VII",
+        "chapter_name": "ASPECTOS ACADEMICOS",
+        "number": 38,
+        "question": "",
+        "title": "MAXIMO DE CREDITOS ACADEMICOS",
+        "body": "Los estudiantes podran inscribir, un maximo de dieciocho (18) creditos academicos de su ruta de aprendizaje para cada periodo academico, atendiendo el tiempo establecido en el calendario academico.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
+
+
     {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
