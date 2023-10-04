@@ -280,6 +280,87 @@
         "paragraphs": [],
         "student_response": "En la Universidad de Cundinamarca hay dos tipos de trasnferencia las cuales son: Interna y Externa"
     },
+
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 32,
+        "question": "",
+        "title": "EXAMEN DE SUFICIENCIA Y VALIDACIÓN",
+        "body": "Es el mecanismo mediante el cual la Universidad de Cundinamarca reconoce el cumplimiento de las exigencias academicas del campo de aprendizaje disciplinar que no haya sido cursado.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo",
+                "content": "El consejo academico expedira un reglamento especial para los campos de aprendizaje institucioales."
+            }
+        ],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 33,
+        "question": "",
+        "title": "REQUISITOS DEL EXAMEN DE SUFICIENCIA Y VALIDACIÓN",
+        "body": "Son requerimientos para presentar las evaluaciones de validación los siguientes:",
+        "items": [
+            "Presentar solicitud escrita ante la dirección, o coordinación del programa, para su estudio y aprobación dentro de las fechas dispuestas en el calendario academico.",
+            "El estudiante, al momento de la solicitud, debe demostrar un promedio acumulado igual o superior a tres dos (3.2).",
+            "Que no se haya reprobado el CADI a validar",
+            "Si el campo a validar cuenta con requisitos según ruta de aprendizaje, debe cumplir con los mismos para su aprobación.",
+            "Estar a paz y salvo por todo concepto con la Universidad.",
+            "Pagar los derechos pecuniarios del examen de validación.",
+            "La nota minima para aprobar una validación es de tres cinco (3.5)."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Estudiante que no apruebe la validación, no podra solicitarla nuevamente y debera cursar el CADI respectivo."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "Los CADI relacionados con las practicas no son validables."
+            },
+
+            {
+                "title": "Paragrafo 3",
+                "content": "El proceso de validación debera efectuarse dentro de la vigencia del respectivo periodo academico en que se solicita y teniendo en cuenta el calendario que se establezca para tal efecto."
+            }
+        ],
+        "student_response": ""
+
+    },
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 34,
+        "question": "",
+        "title": "CRITERIOS PARA EL EXAMEN DE SUFICIENCIA Y VALIDACIÓN",
+        "body": "Para la solicitud de los examenes de suficiencia y validación se tendran en cuenta los siguientes criterios:",
+        "items": [
+            "El director o coordinador del programa presenta la solicitud al comite curricular al cual pertenece el estudiante.",
+            "Revisión de cumplimiento de requisitos.",
+            "Definición del tipo de prueba por aplicar de acuerdo con las caracteristicas del plan de aprendizaje.",
+            "Designación por parte del director o coordinador del area disciplinar, de dos encargados de efectuar el examen de suficiencia.",
+            "Una vez calificada la prueba, se reportara la nota definitiva a la oficina de Admisiones y Registro.",
+            "La prueba no presentada ni cancelada por el estudiante, con una anticipación minima de dos (2) dias habiles a la fecha acordada para presentarla, sera calificada con una nota de cero cero (0.0)."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo",
+                "content": "En caso de fuerza mayor o situaciones fortuitas que impidan la presentación de la prueba, sera el consejo de Facultad quien determine la validez de la circunstancia y conceptue."
+            }
+           
+        ],
+        "student_response": ""
+
+    },
     {
 
         "chapter": "CAPITULO VI",
