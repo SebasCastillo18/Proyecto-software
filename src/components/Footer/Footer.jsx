@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <a className="udec-link" href="http://www.ucundinamarca.edu.co/" target="blank">Universidad de Cundinamarca</a>
       <span> Vigilada MinEducación.</span>
-      <a className="rule" target="_blan" href="/documents/reglamento.pdf">Reglamento</a>
+      <a className="rule" target="_blan" href="https://www.ucundinamarca.edu.co/index.php/reglamento-estudiantil">Reglamento</a>
     </footer>
   )
 }
