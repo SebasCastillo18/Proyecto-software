@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./SearchBar.css"
 
-const SearchBar = ({articles, updateArticle}) => {
+const SearchBar = ({items, updateItem, changeBackground}) => {
     const [nameValue, setNameValue] = useState('');
 
     const handleChange = (e) => {
@@ -10,9 +10,11 @@ const SearchBar = ({articles, updateArticle}) => {
     }
     const handleSearch = (e) => {
         e.preventDefault();
-        let foundArticles = articles.filter((article) => article.title.includes(nameValue.toUpperCase()) || article.number === Number(nameValue));
+        let foundArticles = items.filter((article) => article.title.includes(nameValue.toUpperCase()) || article.number === Number(nameValue));
         if(foundArticles.length){
-            updateArticle(foundArticles[0]);
+            if(updateItem(foundArticles[0])){
+                changeBackground();
+            }
         }else{
             console.log("No encontrado")
         }
