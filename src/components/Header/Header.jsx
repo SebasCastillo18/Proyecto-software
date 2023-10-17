@@ -13,11 +13,14 @@ const Header = ({selected, switchInfo}) => {
   }
   return (
     <header className="container-header">
-      <button className="switch-btn" onClick={() => switchInfo()}>{option}</button>
-      <img className="img-logo" src="/images/ESCUDO-BLANCO-H.png" alt="" />
-      <h1>{title}</h1>
-      <img className="img-logo" src="/images/ESCUDO-BLANCO-H.png" alt="" />
-      <i className="bx bxs-moon dark-mode"></i>
+      <img className="img-logo" src="/images/ESCUDO-BLANCO-H.png" alt="escudo-blanco" />
+      <h1 className="header-title">{title}</h1>
+      <div className="header-buttons">
+        <button className="switch-btn" onClick={() => switchInfo()}>{option}</button>
+        <button className="dark-mode">
+          <i className="bx bxs-moon"></i>
+        </button>
+      </div>
     </header>
   );
 };

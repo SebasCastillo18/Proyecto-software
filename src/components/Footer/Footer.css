@@ -5,7 +5,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    display:flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -50,8 +49,4 @@ footer span {
 .rule:hover {
     color: #79c000;
     
-}
-
-.bx {
-    font-size: 40px;
 }

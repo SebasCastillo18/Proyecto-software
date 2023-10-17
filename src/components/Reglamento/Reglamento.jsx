@@ -74,6 +74,7 @@ const Reglamento = ({
         items={articles}
         updateItem={(foundArticle) => searchArticle(foundArticle)}
         changeBackground={changeBackground}
+        isReglamento={true}
       />
       <section className="article_section">
         <h2>{article.chapter}</h2>

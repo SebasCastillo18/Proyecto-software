@@ -37,7 +37,7 @@
         "paragraphs": [
             {
                 "title": "Paragrafo",
-                "Content": "El consejo Academico establecera el procedimiento"
+                "content": "El consejo Academico establecera el procedimiento"
             }
         ],
         "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."

@@ -4,9 +4,9 @@
     margin-bottom: 20px;
     padding-top: 12px;
     padding-left: 50px;
-    padding-right: 40px;
-    padding-bottom: 40px;
-    max-width: 90%;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    width: 90%;
     height: auto;
     background-color: #00482b;
     border-radius: 20px;
@@ -40,6 +40,10 @@
     line-height: 42px;
     letter-spacing: 2px;
     word-spacing: 8px;
+}
+
+.items_list, .paragraphs_list {
+    padding-left: 30px;
 }
 
 .next-button {
@@ -96,21 +100,21 @@
     box-shadow: 0px 0px 6px #000000;
 }
 
-@media (max-width: 780px) {
-    form {
-        flex-direction: column;
-        gap: 20px;
+@media (max-width: 600px) {
+    .article_section {
+        width: 97.5%;
+        padding: 5px 10px 50px 10px;
     }
-
-    form>label {
-        text-align: center;
+    
+    .article_section h2 {
+        font-size: 18px;
+        letter-spacing: 3px;
     }
-
-    form>input {
-        width: 90%;
-    }
-
-    form>i {
-        text-align: center;
+    
+    .article_section p {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 1px;
+        word-spacing: 0px;
     }
 }
