@@ -73,6 +73,7 @@ const Gratuidad = ({ changeBackground }) => {
         items={questions}
         updateItem={(foundQuestion) => searchQuestion(foundQuestion)}
         changeBackground={changeBackground}
+        isReglamento={false}
       />
       <section className="question_section">
         <h2>{question.question}</h2>
