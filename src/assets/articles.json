@@ -76,6 +76,41 @@
 
     {
         "chapter": "CAPITULO II",
+        "chapterName": "ESTUDIANTE",
+        "number": 6,
+        "question": "",
+        "title": "OTRAS CATEGORIAS DE ESTUDIANTE",
+        "body": "En la Universidad de Cundinamarca existen las siguientes categorias:",
+        "items": [
+            "En movilidad entrante: Es aquel estudiante que, matriculado en una institución de educación Superior de caracter nacional o internacional, legalmente constituida y aprobada por el organo competente y, en virtud de los convenios suscritos, efectue el registro academico en la Universidad de Cundinamarca.",
+            "En movilidad saliente: Es el estudiante que matriculado en la Universidad de Cundinamarca y en virtud de convenios suscritos, registre creditos academicos en una universidad nacional o internacional debidamente reconocida por las autoridades competentes.",
+            "Simultaneidad del programa: Un estudiante de la Universidad de Cundinamarca podra estar matriculado de manera simultanea de dos programas academicos de pregrado vigentes, una vez haya cursado el cincuenta por ciento 50% de los creditos academicos del programa en el que inicialmente se matriculo, previo cumplimiento de los requisitos de admisión del segundo programa seleccionado."
+        ],
+        "paragraphs": [
+
+            {
+
+                "title": "Parágrafo 1",
+                "content": "Para el caso de los literales 1 y 2 es competencia de los consejos de Facultad aprobar la movilidad, previo estudio del comite curricular del programa academico, en concordancia con la politica de internacionalización."
+            },
+
+            {
+                "title": "Paragrafo 2",
+                "content": "En el caso del literal  3 una vez matriculado en el segundo programa elegido, se hara el respectivo estudio de homologación, previo aval del Comite Curricular y posterior aval del Consejo de Facultad"
+            },
+
+
+            {
+                "title": "Parágrafo 3",
+                "content": "El consejo academico podra establecer nuevas categorias de estudiante"
+            }
+            
+        ],
+        "student_response": ""
+    },
+
+    {
+        "chapter": "CAPITULO II",
         "chapter_name": "ESTUDIANTE",
         "number": 7,
         "question": "¿Por que razones se pierde la condición de estudiante?",
