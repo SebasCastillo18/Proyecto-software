@@ -280,9 +280,50 @@
         "paragraphs": [],
         "student_response": "En la Universidad de Cundinamarca hay dos tipos de trasnferencia las cuales son: Interna y Externa"
     },
-
     {
-
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 26,
+        "question": "",
+        "title": "REQUISITOS DE TRANSFERENCIA",
+        "body": "Para la transferencia interna o externa, el aspirante deberá cumplir con:",
+        "items": [
+            "Solicitud a traves de la platafortma institucional.",
+            "Certificado de calificaciones del programa de procedencia con un ponderado acumulado igual o superior a tres cinco (3.5) o su equivalente.",
+            "Certificación de antecendentes disciplinarios o su equivalente, emitida por la institución de procedencia.",
+            "Contenidos tematicos de asignaturas, seminarios, nucleos, modulos cursados o campos de aprendizaje.",
+            "Plan de estudios o ruta de aprendizaje del programa de procedencia.",
+            "Para los estudiantes procedentes de instituciones extranjeras, deberan cumplir con la respectiva aprobación por parte del MEN."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "El programa academico aceptara el tramite de tranferencia dependiendo de la disponibilidad de cupos aprobados por el MEN."
+            }
+        ],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 27,
+        "question": "",
+        "title": "HOMOLOGACIÓN",
+        "body": "Es el reconocimiento que realiza la Universidad de Cundinamarca de los estudios cursados por un estudiante en un programa academico formal de educación superior de la propia institución (interna) o de otra nacional e internacional (externa), de la misma naturaleza y nivel, legalmente reconocida, dentro de los tiempos establecidos en el calendario academico aprobado por el Consejo Academico.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Los creditos academicos pertenecientes a la linea de profundización de un programa de pregrado de la Universidad de Cundinamarca, una vez cursados y aprobados en este, podran ser homologados por crreditos en la especialización de la misma naturalieza disciplinar."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "Cuando se tramite de una institución de educacion superior extranjera se observara lo establecido por el articulo 62 de la ley 962 de 2005 o la norma que lo derogue, modifique o adicione."
+            }
+        ],
+        "student_response": ""
+    },
+    {
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 29,
@@ -290,7 +331,6 @@
         "title": "SITUACIONES QUE DAN LUGAR A LA HOMOLOGACIÓN",
         "body": "El estudio para la homologación será tramitado por solicitud del estudiante en los siguientes casos:",
         "items": [
-
             "Terminación con nota final igual o superior a tes cinco (3.5) o su equivalente en el campo de aprendizaje de profundización disciplinar.",
             "Nuevo plan de estudios  (plan de transición - asimilación).",
             "Reconocimiento de creditos academicos por estudios de educación formal que cumplan con las horas reglamentarias",
@@ -300,11 +340,8 @@
         ],
         "paragraphs": [],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 30,
@@ -314,11 +351,8 @@
         "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 31,
@@ -332,18 +366,14 @@
             "Nucleos tematicos o campos de aprendizaje que hayan sido aprobados con la nota minima segun el articulo de resultados esperados de aprendizaje contemplados en este reglamento."
         ],
         "paragraphs": [
-
             {
                 "title": "Paragrafo",
                 "content": "Una vez aprobado el plan de asimilación, se le comunicara al estudiante, a traves del correo electronico institucional que tenga registrado en la Universidad de Cundinamarca para que proceda al registro de la asimilación respectiva. En caso de no realizarlo en la fecha fijada, la universidad procedera a registrarlo de forma automatica."
             }
         ],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 32,
@@ -358,11 +388,8 @@
             }
         ],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 33,
@@ -387,17 +414,14 @@
                 "title": "Paragrafo 2",
                 "content": "Los CADI relacionados con las practicas no son validables."
             },
-
             {
                 "title": "Paragrafo 3",
                 "content": "El proceso de validación debera efectuarse dentro de la vigencia del respectivo periodo academico en que se solicita y teniendo en cuenta el calendario que se establezca para tal efecto."
             }
         ],
         "student_response": ""
-
     },
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 34,
@@ -417,13 +441,10 @@
                 "title": "Parágrafo",
                 "content": "En caso de fuerza mayor o situaciones fortuitas que impidan la presentación de la prueba, sera el consejo de Facultad quien determine la validez de la circunstancia y conceptue."
             }
-           
         ],
         "student_response": ""
-
     },
     {
-
         "chapter": "CAPITULO VI",
         "chapter_name": "INTERCAMBIO UNIVERSITARIO",
         "number": 35,
@@ -442,11 +463,8 @@
             }
         ],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO VI",
         "chapter_name": "INTERCAMBIO UNIVERSITARIO",
         "number": 36,
@@ -464,28 +482,19 @@
         ],
         "paragraphs": [],
         "student_response": ""
-
     },
-   
-
     {
-
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADEMICOS",
         "number": 37,
         "question": "",
         "title": "CREDITO ACADEMICO",
         "body": "Es la unidad de medida del tiempo estimado de una actividad academica del estudiante, equivalente a cuarente y ocho  (48) horas de trabajo, incluidas las horas de acompañamiento de docencia directa, tutorias, estudio independiente, practicas, preparación de evaluaciones u otras estrategias necesarias para alcanzar los resultados Esperados de Aprendizaje (REA).",
-        "items": [
-           
-        ],
+        "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADEMICOS",
         "number": 38,
@@ -495,10 +504,7 @@
         "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
-
-
     {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
