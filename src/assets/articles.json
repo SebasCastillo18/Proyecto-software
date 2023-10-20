@@ -285,6 +285,28 @@
 
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 29,
+        "question": "",
+        "title": "SITUACIONES QUE DAN LUGAR A LA HOMOLOGACIÓN",
+        "body": "El estudio para la homologación será tramitado por solicitud del estudiante en los siguientes casos:",
+        "items": [
+
+            "Terminación con nota final igual o superior a tes cinco (3.5) o su equivalente en el campo de aprendizaje de profundización disciplinar.",
+            "Nuevo plan de estudios  (plan de transición - asimilación).",
+            "Reconocimiento de creditos academicos por estudios de educación formal que cumplan con las horas reglamentarias",
+            "Doble titulación.",
+            "Programas cursados en el extranjero, previa convalidación por el MEN",
+            "El estudio de homologación se hara por unica vez por progranma matriculado."
+        ],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 30,
         "question": "",
         "title": "ASIMILACIÓN",
