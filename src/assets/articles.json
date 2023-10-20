@@ -299,6 +299,31 @@
 
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 31,
+        "question": "",
+        "title": "CRITERIOS PARA LA ASIMILACIÓN",
+        "body": "El consejo de Facultad del programa tendra en cuenta los siguientes criterios para la revisión del proceso de asimilación:",
+        "items": [
+            "Conocimiento por parte del estudiante del plan modificado (ruta de aprendizaje resignificada).",
+            "Estudio de asimilación por parte del comite Curricular a la nueva ruta de aprendizaje para los estudiantes vinculados a este proceso.",
+            "Núcleos tematicos o campos de aprindizaje que hayan sido aprobados en el plan de asimilación.",
+            "Nucleos tematicos o campos de aprendizaje que hayan sido aprobados con la nota minima segun el articulo de resultados esperados de aprendizaje contemplados en este reglamento."
+        ],
+        "paragraphs": [
+
+            {
+                "title": "Paragrafo",
+                "content": "Una vez aprobado el plan de asimilación, se le comunicara al estudiante, a traves del correo electronico institucional que tenga registrado en la Universidad de Cundinamarca para que proceda al registro de la asimilación respectiva. En caso de no realizarlo en la fecha fijada, la universidad procedera a registrarlo de forma automatica."
+            }
+        ],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 32,
         "question": "",
         "title": "EXAMEN DE SUFICIENCIA Y VALIDACIÓN",
