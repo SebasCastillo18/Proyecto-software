@@ -1,7 +1,5 @@
 [
-
     {
-
         "chapter": "CAPITULO I",
         "chapter_name": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
         "number": 1,
@@ -11,7 +9,6 @@
         "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
     {
         "chapter": "CAPITULO I",
@@ -30,7 +27,53 @@
         "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
     },
 
-    
+      {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 3,
+        "question": "",
+        "title": "PRINCIPIOS Y VALORES",
+        "body": "En coherencia con el fin que persigue el MEDIT, los principios y valores que sustentan el presente reglamento son: la vida, la dignidad humana, la naturaleza, la otredad, la solidaridad, la fraternidad, la felicidad, el amor, la diversidad y pluralidad, el respeto, el bien comun, la convivencia, la autonomia, la libertad, la responsabilidad, la civilidad y la construcción dialogica y formativa.",
+        "items": [],
+        "paragraphs": [
+            
+        ],
+        "student_response": ""
+    },
+
+      {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 4,
+        "question": "",
+        "title": "EQUIDAD DE GENERO Y ENFOQUE DIFERENCIAL",
+        "body": "De conformidad con lo establecido en el articulo 177 y 179 de la ley 1450 de 2011 y otras normas relacionadas con la equidad de genero y enfoque diferencial, la Universidad de Cundinamarca en el marco de su acción institucional, para garantizar los derechos humanos integrales e interdependientes y la igualdad de genero, consagrando en la politica publica en el documento CONPES social 161 de 2013, reconoce y brinda garantias para evitar la desigualdad, discriminación y subordinación que, en razon del genero, puedan existir en el ambito institucional.",
+        "items": [],
+        "paragraphs": [
+
+            {
+                "title": "Parágrafo",
+                "content": "Este articulo se regirá por la normatividad vigente."
+            }
+            
+        ],
+        "student_response": ""
+    },
+
+      {
+        "chapter": "CAPITULO II",
+        "chapterName": "ESTUDIANTE",
+        "number": 5,
+        "question": "",
+        "title": "DEFINICIÓN",
+        "body": "Es la persona, sujeto de derechos y obligaciones, que trasciende a si mismo, defiende la vida, los principios democraticos, la libertad, la civilidad y se reconoce en su relación con los demás y, accede a los programa que oferta la Universidad de Cundinamarca, quien despues de haber cumplido con los requisitos de admisión, se matricula en un programa academico de pregrado de la institución conforme a lo dispuesto en este reglamento.",
+        "items": [],
+        "paragraphs": [
+            
+        ],
+        "student_response": ""
+    },
+
     {
         "chapter": "CAPITULO II",
         "chapter_name": "ESTUDIANTE",
