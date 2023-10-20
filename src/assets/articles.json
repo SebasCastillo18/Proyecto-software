@@ -285,6 +285,20 @@
 
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 30,
+        "question": "",
+        "title": "ASIMILACIÓN",
+        "body": "Es el proceso de equivalencias en un mismo programa academico, derivado de la actualización de la ruta de aprendizaje y reconocido mediante resolución por parte del MEN.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
+
+    {
+
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 32,
         "question": "",
         "title": "EXAMEN DE SUFICIENCIA Y VALIDACIÓN",
