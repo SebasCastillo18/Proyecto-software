@@ -1,4 +1,18 @@
 [
+
+    {
+
+        "chapter": "CAPITULO I",
+        "chapter_name": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 1,
+        "question": "",
+        "title": "PROPOSITO",
+        "body": "Expedir el reglamento estudiantil que regule las relaciones academicas, disciplinarias y administrativas entre la Universidad de Cundinamarca y los estudiantes que se encuentren matriculados en los programas de pregrado de la institución.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+
+    },
     {
         "chapter": "CAPITULO I",
         "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
@@ -15,6 +29,8 @@
         ],
         "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
     },
+
+    
     {
         "chapter": "CAPITULO II",
         "chapter_name": "ESTUDIANTE",
