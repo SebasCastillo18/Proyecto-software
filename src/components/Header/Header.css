@@ -52,36 +52,6 @@
     gap: 20px;
 }
 
-.dark-mode {
-    width: 30px;
-    height: 30px;
-    color: #fff;
-    background-color: #000;
-    font-size: 10px;
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-self: center;
-    cursor: pointer;
-    border: none;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
-    -webkit-border-radius: 10px;
-}
-
-.dark-mode i {
-    font-size: 20px;
-}
-
-.dark-mode:hover {
-    color: #000;
-    background-color: #fff;
-}
-
 @media (max-width: 600px) {
     .container-header {
         flex-direction: column;
@@ -91,12 +61,14 @@
         height: 10%;
         padding: 5px;
     }
+
     .header-title {
         font-size: 18px;
         line-height: 1.5;
         padding: 0;
         letter-spacing: 3px;
     }
+
     .header-buttons {
         width: 95%;
         justify-content: space-between;

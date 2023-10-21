@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Loto";
+    src: url("../fonts/Lato-Black.ttf");
+    src: url("../fonts/Lato-BlackItalic.ttf");
+}
+
+
 .article_section {
     opacity: 0.7;
     position: relative;
@@ -20,6 +27,7 @@
 .article_section h2,
 .article_section h3,
 .article_section h4 {
+    font-family: "Loto";
     text-align: center;
     color: #fff;
 }
@@ -33,6 +41,7 @@
 
 .article_section p {
     color: #fff;
+    font-family: "Loto";
     text-shadow: 0px 0px 8px #000000;
     font-size: 25px;
     text-align: justify;
