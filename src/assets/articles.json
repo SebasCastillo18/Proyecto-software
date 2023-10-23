@@ -228,6 +228,33 @@
         ],
         "student_response": "La matricula es el instante en que el la calidad de estudiante de la Universidad de Cundinamarca se adquiere."
     },
+
+    {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 14,
+        "question": "",
+        "title": "REQUISITOS DE MATRICULA",
+        "body": "Los requisitos para cumplir el procedimiento administrativo dentro de los tiempos establecidos comprenden:",
+        "items": [
+
+            "Haber sido admitido al programa academico de acuerdo con el procedimiento definido para tal efecto.",
+            "Formalizar la matricula en la oficina de admisiones y registro, para lo cual debe cargar en la plataforma institucional los siguientes documentos: copia del documento de identidad, copia del diploma y acta de grado y copia del resultado en la prueba de estado ICFES o su equivalente si es aspirante graduado de institución extranjera.",
+            "El pago de los derechos pecuniarios correspondientes al periodo academico, junto con los demas derechos establecidos por la universidad, atendiendo a los acuerdos emanados por el Consejo Superior en el tiempo señalado para ello.",
+            "Registrar los campos de Aprendizaje con sus correspondientes creditos academicos.",
+            "Afiliación Vigente al sistema general de Seguridad Social en Salud.",
+            "Autorizar a la Universidad, mediante el procedimiento establecido el manejo de los datos personales.",
+            "Recibir comunicaciones, notificaciones y escritos en el correo institucional, que provea la Universidad de Cundinamarca.",
+            "Cumplir con los demas requisitos establecidos por cada programa academico."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo",
+                "content": "Este articulo re regira por la normatividad vigente."
+            }
+        ],
+        "student_response": ""
+    },
     {
         "chapter": "CAPTITULO IV",
         "chapter_name": "MATRICULA",
