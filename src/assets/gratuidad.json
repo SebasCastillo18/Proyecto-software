@@ -1,7 +1,34 @@
 [
     {
         "id": 1,
-        "question": "¿Cuáles son las condiciones de acceso a los beneficios de la Política de Gratuidad?",
-        "answer": "A partir del 2023-1, los nuevos beneficiarios de la Política de Gratuidad deben estar clasificados en grupos A, B o C (hasta subgrupo C18) en el Sisbén IV. Los beneficiarios actuales mantendrán el beneficio si cumplen con ciertos requisitos. Además, los aspirantes deben ser colombianos, tener menos de 28 años, estar matriculados en programas de pregrado en IES públicas, y no poseer títulos de profesional universitario o postgrados de nivel técnico profesional, tecnológico o universitario. El número de beneficiarios no puede exceder el monto máximo de recursos asignados a cada institución, según el Ministerio de Educación."
+        "question": "¿Se puede tener algún titulo de postgrado?",
+        "answer": "No tener titulo de postgrados de nivel tecnico profesional, tecnologico o universitario, entre otras."
+    },
+
+
+    {
+        "id": 2,
+        "question": "¿Es solo para ciudadanos colombianos o también se puede para personas extranjeras?",
+        "answer": "Se debe tener nacionalidad Colombiana"
+    },
+
+    {
+        "id": 3,
+        "question": "¿Cual es el limite de edad para poder acceder a la gratuidad?",
+        "answer": "El limite es que no se debe tener mas de 28 años de edad"
+    },
+
+    {
+        "id": 4,
+        "question": "¿El beneficio es para universidades publicas y privadas?",
+        "answer": "Se debe estar matriculado en un programa de pregrado en las 64 IES publicas"
+    },
+
+    {
+        "id": 5,
+        "question": "¿Debo tener titulo profesional para acceder a la gratuidad?",
+        "answer": "No es necesario tener titulo de profesional Universitario para acceder a la gratuidad, es mas para poder ser parte no se debe contar con titulo universitario"
     }
+
+
 ]

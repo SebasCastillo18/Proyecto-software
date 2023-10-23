@@ -181,7 +181,6 @@
         "paragraphs": [],
         "student_response": "La caracterización es el proceso en el cual se hace un estudio a cada estudiante, dependiendo diferentes aspectos."
     },
-
     {
         "chapter": "CAPITULO III",
         "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
@@ -195,12 +194,10 @@
                 "title": "Paragrafo 1",
                 "content": "La Universidad de Cundinamarca no se compromete a reservar cupos, una vez se ha informado la calidad de admitido."
             },
-
             {
                 "title": "Paragrafo 2",
                 "content": "El consejo academico establecera acciones y estrategias para el desarrollo de las actividades definidas en el proceso de selección para aspirante que presenten diversidad funcional, orientadas a facilitar el acceso a la información, ayudas tecnicas para la presentación de pruebas y entrevistas, y demás situaciones relacionadas con posibles barreras de contexto."
             },
-
             {
                 "title": "Paragrafo 3",
                 "content": "Quien cometa fraude y/o suplantación en las puebas de admisión, se hará acreedor a las siguientes sansiones: Pérdida definitiva del derecho de inscripción, sin perjuicio de las sanciones penales a que hubiere lugar, cuando se trate de suplantación de persona o ducumento. b) Anulación de prueba y perdida definitiva del derecho a presentar examen de admisión, cuando se trate de copia o retención del material de las puebas."
@@ -228,7 +225,6 @@
         ],
         "student_response": "La matricula es el instante en que el la calidad de estudiante de la Universidad de Cundinamarca se adquiere."
     },
-
     {
         "chapter": "CAPITULO IV",
         "chapter_name": "MATRICULA",
@@ -237,7 +233,6 @@
         "title": "REQUISITOS DE MATRICULA",
         "body": "Los requisitos para cumplir el procedimiento administrativo dentro de los tiempos establecidos comprenden:",
         "items": [
-
             "Haber sido admitido al programa academico de acuerdo con el procedimiento definido para tal efecto.",
             "Formalizar la matricula en la oficina de admisiones y registro, para lo cual debe cargar en la plataforma institucional los siguientes documentos: copia del documento de identidad, copia del diploma y acta de grado y copia del resultado en la prueba de estado ICFES o su equivalente si es aspirante graduado de institución extranjera.",
             "El pago de los derechos pecuniarios correspondientes al periodo academico, junto con los demas derechos establecidos por la universidad, atendiendo a los acuerdos emanados por el Consejo Superior en el tiempo señalado para ello.",
@@ -465,7 +460,6 @@
         ],
         "student_response": ""
     },
-
     {
         "chapter": "CAPITULO V",
         "chapterName": "SITUACIONES ACADEMICAS",
@@ -474,7 +468,6 @@
         "title": "REQUISITOS PARA HOMOLOGAR",
         "body": "Para acceder al estudio de homologación, se deben cumplir los siguientes requisitos:",
         "items": [
-
             "Encontrarse matriculado en el programa academico de pregrado de la Universidad de Cundinamarca",
             "Aprobar el estudio por parte del Comite Curricular del programa y notificar el resultado a la Oficina de Admisiones y Registro.",
             "Los creditos academicos cursados y aprobados deberan ser de igual o superior número contemplado en la universidad para el correspondiente núcleo tematico o campo de aprendizaje.",
@@ -483,17 +476,14 @@
             "Existencia de cupos en el programa academico al que se pretende ingresar."
         ],
         "paragraphs": [
-
             {
                 "title": "Paragrafo 1",
                 "content": "La homologación de asignaturas, nucleos tematicos o campos de aprendizaje cursados y aprobados en otro programa academico se compararan de acuerdo con la ruta de aprendizaje vigente del programa y los creditos academicos que de ellos se deriven."
             },
-
             {
                 "title": "Paragrafo 2",
                 "content": "En la solicitud presentada por estudiantes para el estudio de homologación, en el evento en que se haya surtido una reforma del plan d estudios (plan de transición) seran reconocidos los creditos academicos que cumplan con la relación de tiempos, la condición de doble titulación o de programas cursados en el extranjero, previa convalidación."
             }
-            
         ],
         "student_response": ""
     },
