@@ -181,6 +181,33 @@
         "paragraphs": [],
         "student_response": "La caracterización es el proceso en el cual se hace un estudio a cada estudiante, dependiendo diferentes aspectos."
     },
+
+    {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 12,
+        "question": "",
+        "title": "ADMISIÓN",
+        "body": "Es el procedimiento mediante el cual la universidad autoriza la matricula al respectivo programa academico de pregrado, previo cumplimineto del procedimiento.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "La Universidad de Cundinamarca no se compromete a reservar cupos, una vez se ha informado la calidad de admitido."
+            },
+
+            {
+                "title": "Paragrafo 2",
+                "content": "El consejo academico establecera acciones y estrategias para el desarrollo de las actividades definidas en el proceso de selección para aspirante que presenten diversidad funcional, orientadas a facilitar el acceso a la información, ayudas tecnicas para la presentación de pruebas y entrevistas, y demás situaciones relacionadas con posibles barreras de contexto."
+            },
+
+            {
+                "title": "Paragrafo 3",
+                "content": "Quien cometa fraude y/o suplantación en las puebas de admisión, se hará acreedor a las siguientes sansiones: Pérdida definitiva del derecho de inscripción, sin perjuicio de las sanciones penales a que hubiere lugar, cuando se trate de suplantación de persona o ducumento. b) Anulación de prueba y perdida definitiva del derecho a presentar examen de admisión, cuando se trate de copia o retención del material de las puebas."
+            }
+        ],
+        "student_response": ""
+    },
     {
         "chapter": "CAPITULO IV",
         "chapter_name": "MATRICULA",
