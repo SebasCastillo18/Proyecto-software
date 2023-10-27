@@ -1,27 +1,27 @@
 [
     {
         "id": 1,
-        "question": "¿Se puede tener algún titulo de postgrado?",
+        "title": "¿Se puede tener algún titulo de postgrado?",
         "answer": "No tener titulo de postgrados de nivel tecnico profesional, tecnologico o universitario, entre otras."
     },
     {
         "id": 2,
-        "question": "¿Es solo para ciudadanos colombianos o también se puede para personas extranjeras?",
+        "title": "¿Es solo para ciudadanos colombianos o también se puede para personas extranjeras?",
         "answer": "Se debe tener nacionalidad Colombiana"
     },
     {
         "id": 3,
-        "question": "¿Cual es el limite de edad para poder acceder a la gratuidad?",
+        "title": "¿CUAL ES EL LIMITE DE EDAD PARA PODER ACCEDER A LA GRATUIDAD?",
         "answer": "El limite es que no se debe tener mas de 28 años de edad"
     },
     {
         "id": 4,
-        "question": "¿El beneficio es para universidades publicas y privadas?",
+        "title": "¿EL BENEFICIO ES PARA UNIVERSIDADES PUBLICAS Y PRIVADAS?",
         "answer": "Se debe estar matriculado en un programa de pregrado en las 64 IES publicas"
     },
     {
         "id": 5,
-        "question": "¿Debo tener titulo profesional para acceder a la gratuidad?",
+        "title": "¿Debo tener titulo profesional para acceder a la gratuidad?",
         "answer": "No es necesario tener titulo de profesional Universitario para acceder a la gratuidad, es mas para poder ser parte no se debe contar con titulo universitario"
     }
 ]
