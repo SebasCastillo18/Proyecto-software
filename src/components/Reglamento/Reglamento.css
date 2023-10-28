@@ -8,16 +8,16 @@
 .article_section {
     opacity: 0.7;
     position: relative;
+    margin: 0 auto;
     margin-bottom: 20px;
     padding-top: 12px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
-    width: 90%;
+    width: 85%;
     height: auto;
     background-color: #00482b;
     border-radius: 20px;
-    width: 90%;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
@@ -110,11 +110,7 @@
 }
 
 @media (max-width: 600px) {
-    .article_section {
-        width: 90%;
-        margin: 0, auto;
-        padding: 5px 10px 50px 10px;
-    }
+    
     
     .article_section h2 {
         font-size: 18px;
