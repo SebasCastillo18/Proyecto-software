@@ -111,7 +111,8 @@
 
 @media (max-width: 600px) {
     .article_section {
-        width: 97.5%;
+        width: 90%;
+        margin: 0, auto;
         padding: 5px 10px 50px 10px;
     }
     
