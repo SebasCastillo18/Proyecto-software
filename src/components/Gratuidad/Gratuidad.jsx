@@ -39,7 +39,7 @@ const Gratuidad = ({ changeBackground }) => {
   };
   //Lógica de búsqueda
   const searchQuestion = (foundQuestion) => {
-    if (!(foundQuestion.number === question.number)) {
+    if (!(foundQuestion.id === question.id)) {
       if (questionIndex === randomOrder.length - 1) {
         let newRandomOrder = [...randomOrder, foundQuestion];
         setQuestion(foundQuestion);
@@ -76,7 +76,7 @@ const Gratuidad = ({ changeBackground }) => {
         isReglamento={false}
       />
       <section className="question_section">
-        <h2>{question.title}</h2>
+        <h2>{question.question}</h2>
         <p>{question.answer}</p>
         <div>
           <i

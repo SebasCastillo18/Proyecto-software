@@ -41,7 +41,9 @@ const App = () => {
           />
         )}
       </main>
-      <Footer />
+      <Footer
+        isReglamento={isReglamentoSelected}
+      />
     </section>
   );
 };

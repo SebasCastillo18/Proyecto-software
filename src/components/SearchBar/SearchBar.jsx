@@ -17,13 +17,24 @@ const SearchBar = ({items, updateItem, changeBackground, isReglamento}) => {
     }
     const handleSearch = (e) => {
         e.preventDefault();
-        let foundItems = items.filter((item) => item.title.includes(nameValue.toUpperCase()) || item.number === Number(nameValue));
-        if(foundItems.length){
-            if(updateItem(foundItems[0])){
-                changeBackground();
+        if(isReglamento){
+            let foundItems = items.filter((item) => item.title.includes(nameValue.toUpperCase()) || item.number === Number(nameValue));
+            if(foundItems.length){
+                if(updateItem(foundItems[0])){
+                    changeBackground();
+                }
+            }else{
+                console.log("No encontrado")
             }
         }else{
-            console.log("No encontrado")
+            let foundItems = items.filter((item) => item.question.includes(nameValue));
+            if(foundItems.length){
+                if(updateItem(foundItems[0])){
+                    changeBackground();
+                }
+            }else{
+                console.log("No encontrado")
+            }
         }
     }
     return (
