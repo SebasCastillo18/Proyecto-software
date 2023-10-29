@@ -1,6 +1,17 @@
 [
     {
         "chapter": "CAPITULO I",
+        "chapter_name": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 1,
+        "question": "",
+        "title": "PROPOSITO",
+        "body": "Expedir el reglamento estudiantil que regule las relaciones academicas, disciplinarias y administrativas entre la Universidad de Cundinamarca y los estudiantes que se encuentren matriculados en los programas de pregrado de la institución.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO I",
         "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
         "number": 2,
         "question": "¿A quien va dirigido el reglamento estudiantil?",
@@ -14,6 +25,72 @@
             }
         ],
         "student_response": "El reglamento estudiantil va dirigido a todos aquellos estudiantes de pregrado de la Universidad de Cundfinamarca con registro calificado y renovación del programa academico"
+    },
+    {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 3,
+        "question": "",
+        "title": "PRINCIPIOS Y VALORES",
+        "body": "En coherencia con el fin que persigue el MEDIT, los principios y valores que sustentan el presente reglamento son: la vida, la dignidad humana, la naturaleza, la otredad, la solidaridad, la fraternidad, la felicidad, el amor, la diversidad y pluralidad, el respeto, el bien comun, la convivencia, la autonomia, la libertad, la responsabilidad, la civilidad y la construcción dialogica y formativa.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO I",
+        "chapterName": "PROPOSITO, AMBITO DE APLICACIÓN PRINCIPIOS Y VALORES",
+        "number": 4,
+        "question": "",
+        "title": "EQUIDAD DE GENERO Y ENFOQUE DIFERENCIAL",
+        "body": "De conformidad con lo establecido en el articulo 177 y 179 de la ley 1450 de 2011 y otras normas relacionadas con la equidad de genero y enfoque diferencial, la Universidad de Cundinamarca en el marco de su acción institucional, para garantizar los derechos humanos integrales e interdependientes y la igualdad de genero, consagrando en la politica publica en el documento CONPES social 161 de 2013, reconoce y brinda garantias para evitar la desigualdad, discriminación y subordinación que, en razon del genero, puedan existir en el ambito institucional.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Parágrafo",
+                "content": "Este articulo se regirá por la normatividad vigente."
+            }
+        ],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO II",
+        "chapterName": "ESTUDIANTE",
+        "number": 5,
+        "question": "",
+        "title": "DEFINICIÓN",
+        "body": "Es la persona, sujeto de derechos y obligaciones, que trasciende a si mismo, defiende la vida, los principios democraticos, la libertad, la civilidad y se reconoce en su relación con los demás y, accede a los programa que oferta la Universidad de Cundinamarca, quien despues de haber cumplido con los requisitos de admisión, se matricula en un programa academico de pregrado de la institución conforme a lo dispuesto en este reglamento.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO II",
+        "chapterName": "ESTUDIANTE",
+        "number": 6,
+        "question": "",
+        "title": "OTRAS CATEGORIAS DE ESTUDIANTE",
+        "body": "En la Universidad de Cundinamarca existen las siguientes categorias:",
+        "items": [
+            "En movilidad entrante: Es aquel estudiante que, matriculado en una institución de educación Superior de caracter nacional o internacional, legalmente constituida y aprobada por el organo competente y, en virtud de los convenios suscritos, efectue el registro academico en la Universidad de Cundinamarca.",
+            "En movilidad saliente: Es el estudiante que matriculado en la Universidad de Cundinamarca y en virtud de convenios suscritos, registre creditos academicos en una universidad nacional o internacional debidamente reconocida por las autoridades competentes.",
+            "Simultaneidad del programa: Un estudiante de la Universidad de Cundinamarca podra estar matriculado de manera simultanea de dos programas academicos de pregrado vigentes, una vez haya cursado el cincuenta por ciento 50% de los creditos academicos del programa en el que inicialmente se matriculo, previo cumplimiento de los requisitos de admisión del segundo programa seleccionado."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo 1",
+                "content": "Para el caso de los literales 1 y 2 es competencia de los consejos de Facultad aprobar la movilidad, previo estudio del comite curricular del programa academico, en concordancia con la politica de internacionalización."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "En el caso del literal  3 una vez matriculado en el segundo programa elegido, se hara el respectivo estudio de homologación, previo aval del Comite Curricular y posterior aval del Consejo de Facultad"
+            },
+            {
+                "title": "Parágrafo 3",
+                "content": "El consejo academico podra establecer nuevas categorias de estudiante"
+            }
+        ],
+        "student_response": ""
     },
     {
         "chapter": "CAPITULO II",
@@ -37,7 +114,7 @@
         "paragraphs": [
             {
                 "title": "Paragrafo",
-                "Content": "El consejo Academico establecera el procedimiento"
+                "content": "El consejo Academico establecera el procedimiento"
             }
         ],
         "student_response": "Se pierde la calidad de estudiante si se cumple algun parametro señalado dentro de lo estipulado."
@@ -105,6 +182,30 @@
         "student_response": "La caracterización es el proceso en el cual se hace un estudio a cada estudiante, dependiendo diferentes aspectos."
     },
     {
+        "chapter": "CAPITULO III",
+        "chapter_name": "INSCRIPCIÓN, SELECCIÓN Y ADMISIÓN",
+        "number": 12,
+        "question": "",
+        "title": "ADMISIÓN",
+        "body": "Es el procedimiento mediante el cual la universidad autoriza la matricula al respectivo programa academico de pregrado, previo cumplimineto del procedimiento.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "La Universidad de Cundinamarca no se compromete a reservar cupos, una vez se ha informado la calidad de admitido."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "El consejo academico establecera acciones y estrategias para el desarrollo de las actividades definidas en el proceso de selección para aspirante que presenten diversidad funcional, orientadas a facilitar el acceso a la información, ayudas tecnicas para la presentación de pruebas y entrevistas, y demás situaciones relacionadas con posibles barreras de contexto."
+            },
+            {
+                "title": "Paragrafo 3",
+                "content": "Quien cometa fraude y/o suplantación en las puebas de admisión, se hará acreedor a las siguientes sansiones: Pérdida definitiva del derecho de inscripción, sin perjuicio de las sanciones penales a que hubiere lugar, cuando se trate de suplantación de persona o ducumento. b) Anulación de prueba y perdida definitiva del derecho a presentar examen de admisión, cuando se trate de copia o retención del material de las puebas."
+            }
+        ],
+        "student_response": ""
+    },
+    {
         "chapter": "CAPITULO IV",
         "chapter_name": "MATRICULA",
         "number": 13,
@@ -123,6 +224,31 @@
             }
         ],
         "student_response": "La matricula es el instante en que el la calidad de estudiante de la Universidad de Cundinamarca se adquiere."
+    },
+    {
+        "chapter": "CAPITULO IV",
+        "chapter_name": "MATRICULA",
+        "number": 14,
+        "question": "",
+        "title": "REQUISITOS DE MATRICULA",
+        "body": "Los requisitos para cumplir el procedimiento administrativo dentro de los tiempos establecidos comprenden:",
+        "items": [
+            "Haber sido admitido al programa academico de acuerdo con el procedimiento definido para tal efecto.",
+            "Formalizar la matricula en la oficina de admisiones y registro, para lo cual debe cargar en la plataforma institucional los siguientes documentos: copia del documento de identidad, copia del diploma y acta de grado y copia del resultado en la prueba de estado ICFES o su equivalente si es aspirante graduado de institución extranjera.",
+            "El pago de los derechos pecuniarios correspondientes al periodo academico, junto con los demas derechos establecidos por la universidad, atendiendo a los acuerdos emanados por el Consejo Superior en el tiempo señalado para ello.",
+            "Registrar los campos de Aprendizaje con sus correspondientes creditos academicos.",
+            "Afiliación Vigente al sistema general de Seguridad Social en Salud.",
+            "Autorizar a la Universidad, mediante el procedimiento establecido el manejo de los datos personales.",
+            "Recibir comunicaciones, notificaciones y escritos en el correo institucional, que provea la Universidad de Cundinamarca.",
+            "Cumplir con los demas requisitos establecidos por cada programa academico."
+        ],
+        "paragraphs": [
+            {
+                "title": "Parágrafo",
+                "content": "Este articulo re regira por la normatividad vigente."
+            }
+        ],
+        "student_response": ""
     },
     {
         "chapter": "CAPTITULO IV",
@@ -160,6 +286,17 @@
             }
         ],
         "student_response": "La matricula se puede cancelar segun los parametros establecidos."
+    },
+    {
+        "chapter": "CAPITULO IV",
+        "chapterName": "MATRICULA",
+        "number": 17,
+        "question": "",
+        "title": "DEVOLUCIÓN DE DRECHOS DE MATRICULA",
+        "body": "Se efectuara el reembolso a los estudiantes enlos siguentes casos: un 50% de los derechso de matricula del periodo academico si ya se realizo el registro, pero no inicio clases y un 75% de los derechos de matricula a la persona que no alcanzo a realizar el registro academico. En cualquiera de los casos la devolución se solicitara mediante oficio remitido a la vicerrectoria Administrativa y Financiera durante las dos  (2)  primeras semanas de inicio del periodo academico correspondiente; agotado este plazo, se perdera el derecho a dicho reembolso.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
     },
     {
         "chapter": "CAPITULO IV",
@@ -274,15 +411,133 @@
         "title": "CLASES DE TRANFERENCIA",
         "body": "En la Universidad de Cundinamarca las tranferencias se categorizan como:",
         "items": [
-            "1. Externa. Es aquella solicitud que hace un aspirante deotra universidad nacional o internacional, para ingresar a un programa de pregrado en la Universidad de Cundinamarca.",
-            "2. Interna. Es aquella solicitud que realiza un estudiante de un programa academico para ingresar a otro, dentro de la Universidad."
+            "Externa. Es aquella solicitud que hace un aspirante deotra universidad nacional o internacional, para ingresar a un programa de pregrado en la Universidad de Cundinamarca.",
+            "Interna. Es aquella solicitud que realiza un estudiante de un programa academico para ingresar a otro, dentro de la Universidad."
         ],
         "paragraphs": [],
         "student_response": "En la Universidad de Cundinamarca hay dos tipos de trasnferencia las cuales son: Interna y Externa"
     },
-
     {
-
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 26,
+        "question": "",
+        "title": "REQUISITOS DE TRANSFERENCIA",
+        "body": "Para la transferencia interna o externa, el aspirante deberá cumplir con:",
+        "items": [
+            "Solicitud a traves de la platafortma institucional.",
+            "Certificado de calificaciones del programa de procedencia con un ponderado acumulado igual o superior a tres cinco (3.5) o su equivalente.",
+            "Certificación de antecendentes disciplinarios o su equivalente, emitida por la institución de procedencia.",
+            "Contenidos tematicos de asignaturas, seminarios, nucleos, modulos cursados o campos de aprendizaje.",
+            "Plan de estudios o ruta de aprendizaje del programa de procedencia.",
+            "Para los estudiantes procedentes de instituciones extranjeras, deberan cumplir con la respectiva aprobación por parte del MEN."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "El programa academico aceptara el tramite de tranferencia dependiendo de la disponibilidad de cupos aprobados por el MEN."
+            }
+        ],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 27,
+        "question": "",
+        "title": "HOMOLOGACIÓN",
+        "body": "Es el reconocimiento que realiza la Universidad de Cundinamarca de los estudios cursados por un estudiante en un programa academico formal de educación superior de la propia institución (interna) o de otra nacional e internacional (externa), de la misma naturaleza y nivel, legalmente reconocida, dentro de los tiempos establecidos en el calendario academico aprobado por el Consejo Academico.",
+        "items": [],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "Los creditos academicos pertenecientes a la linea de profundización de un programa de pregrado de la Universidad de Cundinamarca, una vez cursados y aprobados en este, podran ser homologados por crreditos en la especialización de la misma naturalieza disciplinar."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "Cuando se tramite de una institución de educacion superior extranjera se observara lo establecido por el articulo 62 de la ley 962 de 2005 o la norma que lo derogue, modifique o adicione."
+            }
+        ],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapterName": "SITUACIONES ACADEMICAS",
+        "number": 28,
+        "question": "",
+        "title": "REQUISITOS PARA HOMOLOGAR",
+        "body": "Para acceder al estudio de homologación, se deben cumplir los siguientes requisitos:",
+        "items": [
+            "Encontrarse matriculado en el programa academico de pregrado de la Universidad de Cundinamarca",
+            "Aprobar el estudio por parte del Comite Curricular del programa y notificar el resultado a la Oficina de Admisiones y Registro.",
+            "Los creditos academicos cursados y aprobados deberan ser de igual o superior número contemplado en la universidad para el correspondiente núcleo tematico o campo de aprendizaje.",
+            "Presentar certificado original de notas y contenidos programaticos de la institución de origen y carta dirigida a la coordinación o dirección del programa academico, que lo remitira el comite curricular del programa para su estudio y emisión del concepto y aprobación.",
+            "Cancelar los derechos pecuniarios a que haya lugra según la normatividad institucional.",
+            "Existencia de cupos en el programa academico al que se pretende ingresar."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo 1",
+                "content": "La homologación de asignaturas, nucleos tematicos o campos de aprendizaje cursados y aprobados en otro programa academico se compararan de acuerdo con la ruta de aprendizaje vigente del programa y los creditos academicos que de ellos se deriven."
+            },
+            {
+                "title": "Paragrafo 2",
+                "content": "En la solicitud presentada por estudiantes para el estudio de homologación, en el evento en que se haya surtido una reforma del plan d estudios (plan de transición) seran reconocidos los creditos academicos que cumplan con la relación de tiempos, la condición de doble titulación o de programas cursados en el extranjero, previa convalidación."
+            }
+        ],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 29,
+        "question": "",
+        "title": "SITUACIONES QUE DAN LUGAR A LA HOMOLOGACIÓN",
+        "body": "El estudio para la homologación será tramitado por solicitud del estudiante en los siguientes casos:",
+        "items": [
+            "Terminación con nota final igual o superior a tes cinco (3.5) o su equivalente en el campo de aprendizaje de profundización disciplinar.",
+            "Nuevo plan de estudios  (plan de transición - asimilación).",
+            "Reconocimiento de creditos academicos por estudios de educación formal que cumplan con las horas reglamentarias",
+            "Doble titulación.",
+            "Programas cursados en el extranjero, previa convalidación por el MEN",
+            "El estudio de homologación se hara por unica vez por progranma matriculado."
+        ],
+        "paragraphs": [],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 30,
+        "question": "",
+        "title": "ASIMILACIÓN",
+        "body": "Es el proceso de equivalencias en un mismo programa academico, derivado de la actualización de la ruta de aprendizaje y reconocido mediante resolución por parte del MEN.",
+        "items": [],
+        "paragraphs": [],
+        "student_response": ""
+    },
+    {
+        "chapter": "CAPITULO V",
+        "chapter_name": "SITUACIONES ACADEMICAS",
+        "number": 31,
+        "question": "",
+        "title": "CRITERIOS PARA LA ASIMILACIÓN",
+        "body": "El consejo de Facultad del programa tendra en cuenta los siguientes criterios para la revisión del proceso de asimilación:",
+        "items": [
+            "Conocimiento por parte del estudiante del plan modificado (ruta de aprendizaje resignificada).",
+            "Estudio de asimilación por parte del comite Curricular a la nueva ruta de aprendizaje para los estudiantes vinculados a este proceso.",
+            "Núcleos tematicos o campos de aprindizaje que hayan sido aprobados en el plan de asimilación.",
+            "Nucleos tematicos o campos de aprendizaje que hayan sido aprobados con la nota minima segun el articulo de resultados esperados de aprendizaje contemplados en este reglamento."
+        ],
+        "paragraphs": [
+            {
+                "title": "Paragrafo",
+                "content": "Una vez aprobado el plan de asimilación, se le comunicara al estudiante, a traves del correo electronico institucional que tenga registrado en la Universidad de Cundinamarca para que proceda al registro de la asimilación respectiva. En caso de no realizarlo en la fecha fijada, la universidad procedera a registrarlo de forma automatica."
+            }
+        ],
+        "student_response": ""
+    },
+    {
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 32,
@@ -297,11 +552,8 @@
             }
         ],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 33,
@@ -326,17 +578,14 @@
                 "title": "Paragrafo 2",
                 "content": "Los CADI relacionados con las practicas no son validables."
             },
-
             {
                 "title": "Paragrafo 3",
                 "content": "El proceso de validación debera efectuarse dentro de la vigencia del respectivo periodo academico en que se solicita y teniendo en cuenta el calendario que se establezca para tal efecto."
             }
         ],
         "student_response": ""
-
     },
     {
-
         "chapter": "CAPITULO V",
         "chapter_name": "SITUACIONES ACADEMICAS",
         "number": 34,
@@ -356,13 +605,10 @@
                 "title": "Parágrafo",
                 "content": "En caso de fuerza mayor o situaciones fortuitas que impidan la presentación de la prueba, sera el consejo de Facultad quien determine la validez de la circunstancia y conceptue."
             }
-           
         ],
         "student_response": ""
-
     },
     {
-
         "chapter": "CAPITULO VI",
         "chapter_name": "INTERCAMBIO UNIVERSITARIO",
         "number": 35,
@@ -381,11 +627,8 @@
             }
         ],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO VI",
         "chapter_name": "INTERCAMBIO UNIVERSITARIO",
         "number": 36,
@@ -403,28 +646,19 @@
         ],
         "paragraphs": [],
         "student_response": ""
-
     },
-   
-
     {
-
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADEMICOS",
         "number": 37,
         "question": "",
         "title": "CREDITO ACADEMICO",
         "body": "Es la unidad de medida del tiempo estimado de una actividad academica del estudiante, equivalente a cuarente y ocho  (48) horas de trabajo, incluidas las horas de acompañamiento de docencia directa, tutorias, estudio independiente, practicas, preparación de evaluaciones u otras estrategias necesarias para alcanzar los resultados Esperados de Aprendizaje (REA).",
-        "items": [
-           
-        ],
+        "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
-
     {
-
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADEMICOS",
         "number": 38,
@@ -434,10 +668,7 @@
         "items": [],
         "paragraphs": [],
         "student_response": ""
-
     },
-
-
     {
         "chapter": "CAPITULO VII",
         "chapter_name": "ASPECTOS ACADÉMICOS",
